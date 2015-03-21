@@ -4,14 +4,15 @@ using System.Collections;
 public class GrassTile : Tile
 {
 	// Use this for initialization
-	void Start () 
+    protected override void Start() 
     {
+        base.Start();
         this.modifierToChance.Add(CreatureModifier.ModifierFlags.AddHP, 0.5f);
 	}
 	
 	// Update is called once per frame
-	void Update () 
+    protected override void Update()
     {
-	
-	}
+        base.Update();
+    }
 }

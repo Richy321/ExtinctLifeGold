@@ -33,7 +33,6 @@ public class TerrainGenerator : MonoBehaviour
 
     }
 
-
     public void Generate()
     {
         //using Fractal Brownian Motion
@@ -82,7 +81,6 @@ public class TerrainGenerator : MonoBehaviour
         GenerateTilesFromHeightMap(heightMap);
     }
 
-
     void GenerateTilesFromHeightMap(List<float> heightMap)
     {
         //generate at origin
@@ -99,7 +97,9 @@ public class TerrainGenerator : MonoBehaviour
             GameObject.DestroyObject(terrainGridGO);
         }
 
-       terrainGridGO = new GameObject(terrainGridGOName);
+        terrainGridGO = new GameObject(terrainGridGOName);
+        TerrainManager manager = terrainGridGO.AddComponent<TerrainManager>();
+        manager.gridSize = gridSize;
 
         GameObject newTile;
 
@@ -120,15 +120,19 @@ public class TerrainGenerator : MonoBehaviour
                 else //(heightValue > oceanThreshold)
                     newTile = GameObject.Instantiate(OceanTile);
 
+                Tile tileScript = newTile.GetComponent<Tile>();
                 newTile.name = "Tile: " + x + "," + y;
                 newTile.transform.parent = terrainGridGO.transform;
                 newTile.transform.Translate(centeredOffset.x, centeredOffset.y, 0); //offset to generate centered
                 newTile.transform.Translate(x * tileSize.x, y * tileSize.y, 0);
+                tileScript.xCoord = x;
+                tileScript.yCoord = y;
+                manager.AddTile(tileScript);
             }
         }
     }
 
-    int getGridCoord(int x, int y)
+    public int getGridCoord(int x, int y)
     {
         return (int)(x * gridSize.y + y);
     }
