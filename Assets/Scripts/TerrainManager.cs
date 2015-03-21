@@ -7,7 +7,7 @@ public class TerrainManager : MonoBehaviour
     public Tile selectedTile;
     List<Tile> tiles = new List<Tile>();
     public Vector2 gridSize;
-    List<Tile> surroundingSelectedTiles = new List<Tile>();
+    public List<Tile> surroundingSelectedTiles = new List<Tile>();
 
 	// Use this for initialization
 	void Start () 
@@ -28,6 +28,8 @@ public class TerrainManager : MonoBehaviour
 
         selectedTile = tile;
         selectedTile.SetColour(Color.red);
+
+
 
         foreach (Tile surroundingTile in surroundingSelectedTiles)
             surroundingTile.ResetColour();
@@ -79,6 +81,12 @@ public class TerrainManager : MonoBehaviour
     int getGridCoord(int x, int y)
     {
         return (int)(x * gridSize.y + y);
+    }
+
+    void GenerateCreatureStats()
+    {
+
+
     }
 
 }

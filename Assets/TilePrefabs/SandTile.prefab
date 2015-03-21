@@ -9,8 +9,8 @@ GameObject:
   m_Component:
   - 4: {fileID: 479434}
   - 212: {fileID: 21258570}
-  - 114: {fileID: 11449544}
   - 61: {fileID: 6169218}
+  - 114: {fileID: 11419114}
   m_Layer: 0
   m_Name: SandTile
   m_TagString: Untagged
@@ -43,7 +43,7 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Size: {x: .100000001, y: .100000001}
---- !u!114 &11449544
+--- !u!114 &11419114
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -51,7 +51,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 176806}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1ddbca640d3b7e244bc5db0ea1b3e264, type: 3}
+  m_Script: {fileID: 11500000, guid: e457098a134f9474abf7a6a6cf1ef55c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   xCoord: 0

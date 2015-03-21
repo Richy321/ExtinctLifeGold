@@ -285,6 +285,8 @@ GameObject:
   m_Component:
   - 4: {fileID: 425474033}
   - 114: {fileID: 425474032}
+  - 114: {fileID: 425474034}
+  - 114: {fileID: 425474035}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -309,6 +311,7 @@ MonoBehaviour:
   GrassTile: {fileID: 136764, guid: 17f8df3a9e5d0d34c8d140fdb14ca0fa, type: 2}
   PlainTile: {fileID: 176806, guid: 6086f020e2834a34abfeaafa114effc5, type: 2}
   MountainTile: {fileID: 144368, guid: 8176c3dd7244b384d9743ef2a394e603, type: 2}
+  confirmButton: {fileID: 2012620520}
   gridSize: {x: 100, y: 100}
 --- !u!4 &425474033
 Transform:
@@ -322,6 +325,31 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
+--- !u!114 &425474034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 425474031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36b66200375a3214b8a8f26eca855cc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &425474035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 425474031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b407e1649cabb0d40abae545c038b999, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  creatureGenerator: {fileID: 425474034}
+  terrainManager: {fileID: 0}
+  playerCreature: {fileID: 0}
 --- !u!1 &789156278
 GameObject:
   m_ObjectHideFlags: 0
@@ -582,7 +610,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2012620521
 RectTransform:
   m_ObjectHideFlags: 0
@@ -639,7 +667,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2012620523}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 425474035}
+        m_MethodName: GeneratePlayerCreature
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &2012620523

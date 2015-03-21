@@ -7,7 +7,7 @@ public class GrassTile : Tile
     protected override void Start() 
     {
         base.Start();
-        this.modifierToChance.Add(CreatureModifier.ModifierFlags.AddHP, 0.5f);
+        this.geneToChance.Add(CreatureGene.GeneFlags.HP_Small, 1.0f);
 	}
 	
 	// Update is called once per frame

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 
-public class Creature : MonoBehaviour 
+public class Creature : ScriptableObject 
 {
     public int healthPoints = 100;
     public int actionPoints = 2;
@@ -16,7 +16,7 @@ public class Creature : MonoBehaviour
     public int meleAttackDamage = 10;
     public int rangedAttackDamage = 5;
 
-    public List<CreatureAbilty> abilities = new List<CreatureAbilty>();
+    public int chromosome = 0;
 
 	// Use this for initialization
 	void Start () 

@@ -6,7 +6,8 @@ public class SandTile : Tile
 	// Use this for initialization
 	protected override void Start () 
     {
-        base.Start();		
+        base.Start();
+        this.geneToChance.Add(CreatureGene.GeneFlags.HP_Medium, 1.0f);
 	}
 	
 	// Update is called once per frame

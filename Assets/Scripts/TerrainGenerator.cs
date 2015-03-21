@@ -11,9 +11,12 @@ public class TerrainGenerator : MonoBehaviour
     public GameObject PlainTile;
     public GameObject MountainTile;
 
+
+    public GameObject confirmButton;
+
     public Vector2 gridSize;
 
-    const string terrainGridGOName = "TerrainGrid";
+    public static string terrainGridGOName = "TerrainGrid";
 
     const float oceanThreshold = 0.0f;
     const float waterThreshold = 0.1f;
@@ -24,7 +27,6 @@ public class TerrainGenerator : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        //gridSize = new Vector2(100, 100);
     }
 
     // Update is called once per frame
@@ -79,6 +81,8 @@ public class TerrainGenerator : MonoBehaviour
         }
 
         GenerateTilesFromHeightMap(heightMap);
+
+        confirmButton.SetActive(true);
     }
 
     void GenerateTilesFromHeightMap(List<float> heightMap)

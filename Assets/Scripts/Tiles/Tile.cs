@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class Tile : MonoBehaviour 
 {
-    public Dictionary<CreatureModifier.ModifierFlags, float> modifierToChance = new Dictionary<CreatureModifier.ModifierFlags, float>();
+    protected Dictionary<CreatureGene.GeneFlags, float> geneToChance = new Dictionary<CreatureGene.GeneFlags, float>();
 
     public int xCoord;
     public int yCoord;
@@ -21,12 +21,12 @@ public class Tile : MonoBehaviour
 
     }
 
-    int GenerateRandomizedBinaryRepresentation()
+    public virtual int GenerateRandomizedBinaryRepresentation()
     {
         int binaryRespresentation = 0;
-        foreach (CreatureModifier.ModifierFlags item in modifierToChance.Keys)
+        foreach (CreatureGene.GeneFlags item in geneToChance.Keys)
         {
-            if(Random.value <= modifierToChance[item])
+            if(Random.value <= geneToChance[item])
                 binaryRespresentation |= (int)item;
         }
         return binaryRespresentation;
