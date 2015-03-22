@@ -9,7 +9,10 @@ public class TerrainManager : MonoBehaviour
     public Vector2 gridSize;
     public List<Tile> surroundingSelectedTiles = new List<Tile>();
 
-	// Use this for initialization
+    public List<Battleground> battlegrounds = new List<Battleground>();
+    public Vector2 battlegroundSize = new Vector2(20, 20);
+
+    // Use this for initialization
 	void Start () 
     {
 	
@@ -83,10 +86,32 @@ public class TerrainManager : MonoBehaviour
         return (int)(x * gridSize.y + y);
     }
 
-    void GenerateCreatureStats()
+    public void CalculateBattlegrounds()
     {
+        int xCoord = 0;
+        int yCoord = 0;
+        Battleground bg = new Battleground(xCoord, yCoord);
 
+        for(int x =0; x < gridSize.x; x++)
+        {
+            for (int y = 0; y < gridSize.y; y++)
+            {
+                if (y % gridSize.y == 0)
+                {
+                    yCoord++;
+                    battlegrounds.Add(bg);
+                    bg = new Battleground(xCoord, yCoord);
+                }
+                bg.tiles.Add(tiles[getGridCoord(x, y)]);
+            }
 
+            if (x % gridSize.x == 0)
+            {
+                xCoord++;
+                battlegrounds.Add(bg);
+                bg = new Battleground(xCoord, yCoord);
+            }
+            yCoord = 0;
+        }
     }
-
 }

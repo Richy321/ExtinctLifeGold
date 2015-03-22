@@ -3,6 +3,12 @@ using System.Collections;
 
 public class PlainTile : Tile 
 {
+
+    public override TileTypes tileType
+    {
+        get { return TileTypes.Plain; }
+    }
+
 	// Use this for initialization
 	protected override void Start () 
     {
@@ -10,7 +16,7 @@ public class PlainTile : Tile
 	}
 	
 	// Update is called once per frame
-	protected override void Update () 
+	protected override void Update() 
     {
         base.Update();
 	}

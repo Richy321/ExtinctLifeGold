@@ -11,7 +11,6 @@ public class TerrainGenerator : MonoBehaviour
     public GameObject PlainTile;
     public GameObject MountainTile;
 
-
     public GameObject confirmButton;
 
     public Vector2 gridSize;
@@ -88,7 +87,6 @@ public class TerrainGenerator : MonoBehaviour
     void GenerateTilesFromHeightMap(List<float> heightMap)
     {
         //generate at origin
-
         SpriteRenderer spriteRenderer = OceanTile.GetComponent<SpriteRenderer>();
         Vector3 tileSize = spriteRenderer.sprite.bounds.size;
 
@@ -134,6 +132,7 @@ public class TerrainGenerator : MonoBehaviour
                 manager.AddTile(tileScript);
             }
         }
+        manager.CalculateBattlegrounds();
     }
 
     public int getGridCoord(int x, int y)

@@ -3,6 +3,11 @@ using System.Collections;
 
 public class SandTile : Tile 
 {
+    public override TileTypes tileType
+    {
+        get { return TileTypes.Sand; }
+    }
+
 	// Use this for initialization
 	protected override void Start () 
     {

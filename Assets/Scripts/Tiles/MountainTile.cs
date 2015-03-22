@@ -3,6 +3,11 @@ using System.Collections;
 
 public class MountainTile : Tile 
 {
+    public override TileTypes tileType
+    {
+        get { return TileTypes.Mountain; }
+    }
+
 	// Use this for initialization
 	protected override void Start () 
     {
