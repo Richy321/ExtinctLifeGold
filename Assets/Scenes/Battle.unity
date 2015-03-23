@@ -285,7 +285,6 @@ GameObject:
   m_Component:
   - 4: {fileID: 425474033}
   - 114: {fileID: 425474032}
-  - 114: {fileID: 425474034}
   - 114: {fileID: 425474035}
   m_Layer: 0
   m_Name: GameController
@@ -325,17 +324,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
---- !u!114 &425474034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 425474031}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36b66200375a3214b8a8f26eca855cc9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &425474035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -347,7 +335,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b407e1649cabb0d40abae545c038b999, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  creatureGenerator: {fileID: 425474034}
   terrainManager: {fileID: 0}
   playerCreature: {fileID: 0}
 --- !u!1 &789156278

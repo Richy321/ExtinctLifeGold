@@ -19,9 +19,9 @@ public class BattlegroundStats : ScriptableObject
         }
     }
 
-    public void GenerateBattlegroundStats(List<Tile> battlegroundTiles)
+    public void GenerateBattlegroundStats(Battleground battleground)
     {
-        if (battlegroundTiles.Count > 0)
+        if (battleground.tiles.Count > 0)
         {
             ResetModifiers();
             Dictionary<Tile.TileTypes, int> tileCounts = new Dictionary<Tile.TileTypes, int>();
@@ -31,14 +31,14 @@ public class BattlegroundStats : ScriptableObject
                 tileCounts.Add(tileType, 0);
             }
 
-            foreach (Tile tile in battlegroundTiles)
+            foreach (Tile tile in battleground.tiles)
             {
                 tileCounts[tile.tileType]++;
             }
 
             foreach (Tile.TileTypes tileType in System.Enum.GetValues(typeof(Tile.TileTypes)))
             {
-                modifierPerTileType[tileType] = tileCounts[tileType] / battlegroundTiles.Count;
+                modifierPerTileType[tileType] = tileCounts[tileType] / battleground.tiles.Count;
             }
         }
     }

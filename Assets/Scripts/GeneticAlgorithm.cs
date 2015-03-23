@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class GeneticAlgorithm : MonoBehaviour 
+public class GeneticAlgorithm : MonoBehaviour
 {
     public static int populationSize = 64;
     public float crossoverRate = 0.7f;
@@ -10,6 +10,7 @@ public class GeneticAlgorithm : MonoBehaviour
     public bool elitism = false;
 
     List<Creature> population = new List<Creature>();
+    TerrainManager terrainManager;
 
     // Use this for initialization
     void Start()
@@ -20,6 +21,7 @@ public class GeneticAlgorithm : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
     }
 
     public void InitialisePopulation()
@@ -32,22 +34,47 @@ public class GeneticAlgorithm : MonoBehaviour
     {
         for (int i = 0; i < count; i++)
         {
-            Creature creature = ScriptableObject.CreateInstance<Creature>();
-            creature.chromosome = Random.Range(0, (int)CreatureGene.GeneFlags.LastEntry);
-            population.Add(creature);
+            population.Add(CreateRandomCreature());
         }
+    }
+    private int createRandomChromosome()
+    {
+        return Random.Range(0, (int)CreatureGene.GeneFlags.LastEntry);
+    }
+
+    private Creature CreateRandomCreature()
+    {
+        Creature creature = ScriptableObject.CreateInstance<Creature>();
+            creature.chromosome = createRandomChromosome();
+        
+        return creature;
+    }
+
+    void ResetFitnessValue()
+    {
+        foreach (Creature creature in population)
+            creature.fitnessValue = 0;
     }
 
     void CalculatePopulationFitness()
     {
-        //foreach battleground tile
-            //foreach creature
-                //foreach creature
-                    //BattleSimulation.Battle()
-                    //accumulate wins
-            
+        ResetFitnessValue();
 
-    }               
+        foreach (Battleground battleground in terrainManager.battlegrounds)
+        {
+            foreach (Creature creatureA in population)
+            {
+                foreach (Creature creatureB in population)
+                {
+                    if (creatureA != creatureB)
+                    {
+                        BattleStats stats = BattleSimulation.Battle(creatureA, creatureB, battleground);
+                        stats.winner.fitnessValue++;
+                    }
+                }
+            }
+        }
+    }
 
     /// <summary>
     /// Discard bad designs
@@ -58,7 +85,26 @@ public class GeneticAlgorithm : MonoBehaviour
         //Stocastic Universal sampling - multiple equally spaced out pointers
         //tournament selection - best individual of a randomly chosen subset
         //Truncation selection - best % of of the population is kept.
+        TruncationSelection(0.5f);
     }
+
+    void TruncationSelection(float keepPercentage)
+    {
+        List<Creature> newPopulation = new List<Creature>();
+        population.Sort((creatureA, creatureB) => creatureA.fitnessValue.CompareTo(creatureB.fitnessValue));
+
+        int max = Mathf.CeilToInt(population.Count * keepPercentage);
+
+        for (int i = 0; i < populationSize; i++)
+        {
+            if(i < max)
+                newPopulation.Add(population[i]);
+            else
+                newPopulation.Add(CreateRandomCreature());
+        }
+        population = newPopulation;
+    }
+
 
     /// <summary>
     /// Crossover some individuals to hopefully create a fitter offspring
@@ -109,6 +155,11 @@ public class GeneticAlgorithm : MonoBehaviour
     /// </summary>
     public void EvolvePopulation()
     {
+
+        //find terrrain manager
+        GameObject terrainManagerGO = GameObject.Find(TerrainGenerator.terrainGridGOName);
+        terrainManager = terrainManagerGO.GetComponent<TerrainManager>();
+
         List<Creature> newPopulation = new List<Creature>();
 
         if (elitism)

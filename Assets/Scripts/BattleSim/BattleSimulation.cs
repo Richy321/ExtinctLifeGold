@@ -4,19 +4,19 @@ using System.Collections.Generic;
 
 public class BattleSimulation : ScriptableObject 
 {
-    public static BattleStats Battle(Creature creatureA, Creature creatureB, List<Tile> battlegroundTiles)
+    public static BattleStats Battle(Creature creatureA, Creature creatureB, Battleground battleground)
     {
         //not not alter existing creatures, so make clones
-        Creature creatureAClone = Object.Instantiate(creatureA) as Creature;
-        Creature creatureBClone = Object.Instantiate(creatureB) as Creature;
+        //Creature creatureAClone = Object.Instantiate(creatureA) as Creature;
+        //Creature creatureBClone = Object.Instantiate(creatureB) as Creature;
 
         BattlegroundStats bgStats = new BattlegroundStats();
-        bgStats.GenerateBattlegroundStats(battlegroundTiles);
+        bgStats.GenerateBattlegroundStats(battleground);
 
-        creatureAClone.ApplyGenesPerBattleground(bgStats);
-        creatureBClone.ApplyGenesPerBattleground(bgStats);
+        creatureA.ApplyGenesPerBattleground(bgStats);
+        creatureA.ApplyGenesPerBattleground(bgStats);
 
-        return DoBattleSimulation(creatureAClone, creatureBClone);
+        return DoBattleSimulation(creatureA, creatureB);
     }
 
     static BattleStats DoBattleSimulation(Creature creatureA, Creature creatureB)

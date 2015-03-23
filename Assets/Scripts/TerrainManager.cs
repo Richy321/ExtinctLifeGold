@@ -88,38 +88,21 @@ public class TerrainManager : MonoBehaviour
 
     public void CalculateBattlegrounds()
     {
-        int xCoord = 0;
-        int yCoord = 0;
-        Battleground bg = null;
-
-        for(int x =0; x < gridSize.x; x++)
+        for (int xCoord = 0; xCoord < gridSize.x / battlegroundSize.x; xCoord++)
         {
-            for (int y = 0; y < gridSize.y; y++)
+            for (int yCoord = 0; yCoord < gridSize.y / battlegroundSize.y; yCoord++)
             {
-                if (y % battlegroundSize.y == 0)
+                Battleground bg = ScriptableObject.CreateInstance<Battleground>();
+                bg.coord = new Vector2(xCoord, yCoord);
+                for (int x1 = 0; x1 < battlegroundSize.x; x1++)
                 {
-                    if (bg != null)
+                    for (int y1 = 0; y1 < battlegroundSize.y; y1++)
                     {
-                        yCoord++;
-                        battlegrounds.Add(bg);
+                        bg.tiles.Add(tiles[getGridCoord((int)battlegroundSize.x * xCoord + x1, (int)battlegroundSize.y * yCoord + y1)]);
                     }
-                    bg = ScriptableObject.CreateInstance<Battleground>();
-                    bg.coord = new Vector2(xCoord, yCoord);
                 }
-                bg.tiles.Add(tiles[getGridCoord(x, y)]);
-            }
-            battlegrounds.Add(bg);
-
-            if (x % battlegroundSize.x == 0)
-            {
-                yCoord = 0;
-                if (bg != null)
-                {
-                    xCoord++;
-                    bg = null;
-                }
+                battlegrounds.Add(bg);
             }
         }
-        battlegrounds.Add(bg);
     }
 }
