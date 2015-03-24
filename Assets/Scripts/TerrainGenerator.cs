@@ -42,7 +42,7 @@ public class TerrainGenerator : MonoBehaviour
         int octaves = 16;
         List<float> heightMap = new List<float>();
         float min = float.MaxValue, max = float.MinValue;
-        Random.seed = System.Environment.TickCount;
+        Random.seed = (int)System.DateTime.Now.Ticks;
 
         int seed = Random.Range(0, (int)gridSize.x);
 
@@ -56,7 +56,6 @@ public class TerrainGenerator : MonoBehaviour
                 
                 for (int i = 0; i < octaves; ++i)
                 {
-
                     total += Mathf.PerlinNoise((float)(x + seed) * frequency, (float)(y + seed) * frequency) * amplitude;
                     frequency *= lacunarity;
                     amplitude *= gain;

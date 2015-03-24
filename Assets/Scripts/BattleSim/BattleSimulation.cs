@@ -6,11 +6,7 @@ public class BattleSimulation : ScriptableObject
 {
     public static BattleStats Battle(Creature creatureA, Creature creatureB, Battleground battleground)
     {
-        //not not alter existing creatures, so make clones
-        //Creature creatureAClone = Object.Instantiate(creatureA) as Creature;
-        //Creature creatureBClone = Object.Instantiate(creatureB) as Creature;
-
-        BattlegroundStats bgStats = new BattlegroundStats();
+        BattlegroundStats bgStats = ScriptableObject.CreateInstance<BattlegroundStats>();
         bgStats.GenerateBattlegroundStats(battleground);
 
         creatureA.ApplyGenesPerBattleground(bgStats);
@@ -21,7 +17,9 @@ public class BattleSimulation : ScriptableObject
 
     static BattleStats DoBattleSimulation(Creature creatureA, Creature creatureB)
     {
-        BattleStats stats = new BattleStats();
+        BattleStats stats =  ScriptableObject.CreateInstance<BattleStats>();
+        
+        
         /*
         //Random swap to choose starting creature
         if (Random.value > 0.5f)
@@ -31,8 +29,10 @@ public class BattleSimulation : ScriptableObject
             creatureB = temp;
         }*/
 
-        stats.battleStatsPerCreature.Add(creatureA, new BattleStats.CreatureBattleStats());
-        stats.battleStatsPerCreature.Add(creatureB, new BattleStats.CreatureBattleStats());
+        CreatureBattleStats creatureStatsA = ScriptableObject.CreateInstance<CreatureBattleStats>();
+        CreatureBattleStats creatureStatsB = ScriptableObject.CreateInstance<CreatureBattleStats>();
+        stats.battleStatsPerCreature.Add(creatureA, creatureStatsA);
+        stats.battleStatsPerCreature.Add(creatureB, creatureStatsB);
 
         while (creatureA.healthPoints > 0 && creatureB.healthPoints > 0)
         {
@@ -46,6 +46,8 @@ public class BattleSimulation : ScriptableObject
             {
                 creatureB.BasicAttack(creatureA);
             }
+
+            stats.duration++;
         }
 
         stats.battleStatsPerCreature[creatureA].remainingHP = creatureA.healthPoints;

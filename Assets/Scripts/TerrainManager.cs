@@ -10,7 +10,7 @@ public class TerrainManager : MonoBehaviour
     public List<Tile> surroundingSelectedTiles = new List<Tile>();
 
     public List<Battleground> battlegrounds = new List<Battleground>();
-    public Vector2 battlegroundSize = new Vector2(20, 20);
+    public Vector2 battlegroundSize = new Vector2(100, 100);
 
     // Use this for initialization
 	void Start () 

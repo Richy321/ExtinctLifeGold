@@ -41,6 +41,10 @@ public class Creature : ScriptableObject
         actionPoints = baseActionPoints;
         attackDamage = baseAttackDamage;
         attackCost = baseAttackCost;
+
+    }
+    public void ResetFitness()
+    {
         fitnessValue = 0;
     }
 

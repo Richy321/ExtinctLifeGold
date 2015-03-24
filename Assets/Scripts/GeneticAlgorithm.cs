@@ -4,18 +4,56 @@ using System.Collections.Generic;
 
 public class GeneticAlgorithm : MonoBehaviour
 {
-    public static int populationSize = 64;
+    public static int populationSize = 10;
     public float crossoverRate = 0.7f;
     public float mutationRate = 0.001f;
     public bool elitism = false;
 
-    List<Creature> population = new List<Creature>();
-    TerrainManager terrainManager;
+    public int generation = 0;
+    public int battles = 0;
+    public bool requiresUIUpdate = false;
+    public int totalFitness = 0;
+
+    public List<Creature> population = new List<Creature>();
+    public TerrainManager terrainManager;
+
+    /// <summary>
+    ///Roulette-wheel selection - normalised decending, random value (0-1), first to accum to that value
+    ///Stocastic Universal sampling - multiple equally spaced out pointers
+    ///Tournament selection - best individual of a randomly chosen subset
+    ///Truncation selection - best % of of the population is kept.
+    /// </summary>
+    public enum SelectionAlgorithm
+    {
+        RouletteWheel,
+        StocasticUniversalSampling,
+        TournamentSelection,
+        TruncationSelection
+    }
+
+    SelectionAlgorithm selectionAlgorithm = SelectionAlgorithm.RouletteWheel;
+
 
     // Use this for initialization
     void Start()
     {
+        Random.seed = (int)System.DateTime.Now.Ticks;
+    }
+
+    void Awake()
+    {
+       // Initialise();
+    }
+    public void Initialise()
+    {
+        //find terrain manager
+        if (!terrainManager)
+        {
+            GameObject terrainManagerGO = GameObject.Find(TerrainGenerator.terrainGridGOName);
+            terrainManager = terrainManagerGO.GetComponent<TerrainManager>();
+        }
         InitialisePopulation();
+        CalculatePopulationFitness();
     }
 
     // Update is called once per frame
@@ -24,10 +62,12 @@ public class GeneticAlgorithm : MonoBehaviour
 
     }
 
-    public void InitialisePopulation()
+    void InitialisePopulation()
     {
         population.Clear();
         AddRandomPopulation(populationSize);
+        generation = 1;
+        requiresUIUpdate = true;
     }
 
     private void AddRandomPopulation(int count)
@@ -53,12 +93,13 @@ public class GeneticAlgorithm : MonoBehaviour
     void ResetFitnessValue()
     {
         foreach (Creature creature in population)
-            creature.fitnessValue = 0;
+            creature.ResetFitness();
     }
 
     void CalculatePopulationFitness()
     {
         ResetFitnessValue();
+        battles = 0;
 
         foreach (Battleground battleground in terrainManager.battlegrounds)
         {
@@ -70,41 +111,83 @@ public class GeneticAlgorithm : MonoBehaviour
                     {
                         BattleStats stats = BattleSimulation.Battle(creatureA, creatureB, battleground);
                         stats.winner.fitnessValue++;
+                        battles++;
+                        requiresUIUpdate = true;
                     }
                 }
             }
         }
+
+        //Sort highest fitness value to lowest
+        population.Sort((creatureA, creatureB)=> creatureB.fitnessValue.CompareTo(creatureA.fitnessValue));
+
+        totalFitness =  battles;
     }
 
     /// <summary>
-    /// Discard bad designs
+    /// Retain the top 'keepPercentage' percent. Duplicate until full.
     /// </summary>
-    void Selection()
-    {
-        //Roulette-wheel selection - normalised decending, random value (0-1), first to accum to that value
-        //Stocastic Universal sampling - multiple equally spaced out pointers
-        //tournament selection - best individual of a randomly chosen subset
-        //Truncation selection - best % of of the population is kept.
-        TruncationSelection(0.5f);
-    }
-
+    /// <param name="keepPercentage"></param>
     void TruncationSelection(float keepPercentage)
     {
         List<Creature> newPopulation = new List<Creature>();
-        population.Sort((creatureA, creatureB) => creatureA.fitnessValue.CompareTo(creatureB.fitnessValue));
-
         int max = Mathf.CeilToInt(population.Count * keepPercentage);
 
-        for (int i = 0; i < populationSize; i++)
+        int currentPos = 0;
+        while(newPopulation.Count < populationSize)
         {
-            if(i < max)
-                newPopulation.Add(population[i]);
+            Creature clone = Object.Instantiate<Creature>(population[currentPos]);
+            newPopulation.Add(clone);
+
+            if(currentPos < max)
+                currentPos++;
             else
-                newPopulation.Add(CreateRandomCreature());
+                currentPos =0;
         }
         population = newPopulation;
     }
 
+    void RouletteSelection(int totalFitness)
+    {
+        List<Creature> newPopulation = new List<Creature>();
+        while (newPopulation.Count < populationSize)
+        {
+            Creature offspringA = RouletteSelectionSingle(totalFitness);
+            Creature offspringB = RouletteSelectionSingle(totalFitness);
+
+            Crossover(offspringA, offspringB);
+
+            Mutation(offspringA);
+            Mutation(offspringB);
+
+            newPopulation.Add(offspringA);
+            newPopulation.Add(offspringB);
+        }
+        population = newPopulation;
+    }
+
+    Creature RouletteSelectionSingle(int totalFitness)
+    {
+        //Generate random number between 0-1
+        float randNumber = Random.value;
+
+        float runningNormalisedFitness = 0;
+
+        //TODO - switch to binary search instead of linear...
+        for (int i = 0; i < populationSize; i++)
+        {
+            runningNormalisedFitness += (float)population[i].fitnessValue / totalFitness;
+
+            if (runningNormalisedFitness > randNumber)
+            {
+                //return a clone
+                return Object.Instantiate<Creature>(population[Mathf.Max(0, i)]);
+            }
+        }
+
+        //we have a problem if we get here.
+        throw new UnityException("RouletteSelectionSingle didn't find a value... normalisation must be wrong");
+    }
 
     /// <summary>
     /// Crossover some individuals to hopefully create a fitter offspring
@@ -118,8 +201,13 @@ public class GeneticAlgorithm : MonoBehaviour
             string chromosomeA = System.Convert.ToString(creatureA.chromosome, 2);
             string chromosomeB = System.Convert.ToString(creatureB.chromosome, 2);
 
+            int maxLength = System.Enum.GetValues(typeof(CreatureGene.GeneFlags)).Length-2; //ignoring None and LastEntry
+
+            chromosomeA = chromosomeA.PadLeft(maxLength, '0');
+            chromosomeB = chromosomeB.PadLeft(maxLength, '0');
+
             //select random length along chromosome
-            int splitPoint = Random.Range(0, System.Enum.GetValues(typeof(CreatureGene.GeneFlags)).Length);
+            int splitPoint = Random.Range(0, maxLength);
 
             string leftA = chromosomeA.Substring(0, splitPoint);
             string rightA = chromosomeA.Substring(splitPoint);
@@ -142,7 +230,7 @@ public class GeneticAlgorithm : MonoBehaviour
     /// <param name="creature"></param>
     void Mutation(Creature creature)
     {
-        string chromosome = System.Convert.ToString(creature.chromosome, 2);
+        //string chromosome = System.Convert.ToString(creature.chromosome, 2);
         foreach (CreatureGene.GeneFlags flag in System.Enum.GetValues(typeof(CreatureGene.GeneFlags)))
         {
             if (Random.value <= mutationRate)
@@ -151,20 +239,31 @@ public class GeneticAlgorithm : MonoBehaviour
     }
 
     /// <summary>
-    /// 
+    /// Assumes fitness has been calculated and population is ordered by fitness (highest to lowest)
     /// </summary>
     public void EvolvePopulation()
     {
-
-        //find terrrain manager
-        GameObject terrainManagerGO = GameObject.Find(TerrainGenerator.terrainGridGOName);
-        terrainManager = terrainManagerGO.GetComponent<TerrainManager>();
-
-        List<Creature> newPopulation = new List<Creature>();
-
         if (elitism)
         {
-            //keep fittest individual
+            //TODO - keep fittest individual
         }
+
+        switch (selectionAlgorithm)
+        {
+            case SelectionAlgorithm.RouletteWheel:
+                RouletteSelection(totalFitness);
+                break;
+            case SelectionAlgorithm.TruncationSelection:
+                TruncationSelection(0.5f);
+                break;
+        }
+        CalculatePopulationFitness();
+        generation++;
+        requiresUIUpdate = true;
+    }
+
+    public Creature GetCreatureByFitnessIndex(int fitnessIndex)
+    {
+        return population[fitnessIndex];
     }
 }

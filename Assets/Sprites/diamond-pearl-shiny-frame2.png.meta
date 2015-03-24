@@ -1,0 +1,5709 @@
+fileFormatVersion: 2
+guid: f2efd8c1776d30a44a10bded185068d5
+timeCreated: 1427152652
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: diamond-pearl-shiny-frame2_0
+    21300002: diamond-pearl-shiny-frame2_1
+    21300004: diamond-pearl-shiny-frame2_2
+    21300006: diamond-pearl-shiny-frame2_3
+    21300008: diamond-pearl-shiny-frame2_4
+    21300010: diamond-pearl-shiny-frame2_5
+    21300012: diamond-pearl-shiny-frame2_6
+    21300014: diamond-pearl-shiny-frame2_7
+    21300016: diamond-pearl-shiny-frame2_8
+    21300018: diamond-pearl-shiny-frame2_9
+    21300020: diamond-pearl-shiny-frame2_10
+    21300022: diamond-pearl-shiny-frame2_11
+    21300024: diamond-pearl-shiny-frame2_12
+    21300026: diamond-pearl-shiny-frame2_13
+    21300028: diamond-pearl-shiny-frame2_14
+    21300030: diamond-pearl-shiny-frame2_15
+    21300032: diamond-pearl-shiny-frame2_16
+    21300034: diamond-pearl-shiny-frame2_17
+    21300036: diamond-pearl-shiny-frame2_18
+    21300038: diamond-pearl-shiny-frame2_19
+    21300040: diamond-pearl-shiny-frame2_20
+    21300042: diamond-pearl-shiny-frame2_21
+    21300044: diamond-pearl-shiny-frame2_22
+    21300046: diamond-pearl-shiny-frame2_23
+    21300048: diamond-pearl-shiny-frame2_24
+    21300050: diamond-pearl-shiny-frame2_25
+    21300052: diamond-pearl-shiny-frame2_26
+    21300054: diamond-pearl-shiny-frame2_27
+    21300056: diamond-pearl-shiny-frame2_28
+    21300058: diamond-pearl-shiny-frame2_29
+    21300060: diamond-pearl-shiny-frame2_30
+    21300062: diamond-pearl-shiny-frame2_31
+    21300064: diamond-pearl-shiny-frame2_32
+    21300066: diamond-pearl-shiny-frame2_33
+    21300068: diamond-pearl-shiny-frame2_34
+    21300070: diamond-pearl-shiny-frame2_35
+    21300072: diamond-pearl-shiny-frame2_36
+    21300074: diamond-pearl-shiny-frame2_37
+    21300076: diamond-pearl-shiny-frame2_38
+    21300078: diamond-pearl-shiny-frame2_39
+    21300080: diamond-pearl-shiny-frame2_40
+    21300082: diamond-pearl-shiny-frame2_41
+    21300084: diamond-pearl-shiny-frame2_42
+    21300086: diamond-pearl-shiny-frame2_43
+    21300088: diamond-pearl-shiny-frame2_44
+    21300090: diamond-pearl-shiny-frame2_45
+    21300092: diamond-pearl-shiny-frame2_46
+    21300094: diamond-pearl-shiny-frame2_47
+    21300096: diamond-pearl-shiny-frame2_48
+    21300098: diamond-pearl-shiny-frame2_49
+    21300100: diamond-pearl-shiny-frame2_50
+    21300102: diamond-pearl-shiny-frame2_51
+    21300104: diamond-pearl-shiny-frame2_52
+    21300106: diamond-pearl-shiny-frame2_53
+    21300108: diamond-pearl-shiny-frame2_54
+    21300110: diamond-pearl-shiny-frame2_55
+    21300112: diamond-pearl-shiny-frame2_56
+    21300114: diamond-pearl-shiny-frame2_57
+    21300116: diamond-pearl-shiny-frame2_58
+    21300118: diamond-pearl-shiny-frame2_59
+    21300120: diamond-pearl-shiny-frame2_60
+    21300122: diamond-pearl-shiny-frame2_61
+    21300124: diamond-pearl-shiny-frame2_62
+    21300126: diamond-pearl-shiny-frame2_63
+    21300128: diamond-pearl-shiny-frame2_64
+    21300130: diamond-pearl-shiny-frame2_65
+    21300132: diamond-pearl-shiny-frame2_66
+    21300134: diamond-pearl-shiny-frame2_67
+    21300136: diamond-pearl-shiny-frame2_68
+    21300138: diamond-pearl-shiny-frame2_69
+    21300140: diamond-pearl-shiny-frame2_70
+    21300142: diamond-pearl-shiny-frame2_71
+    21300144: diamond-pearl-shiny-frame2_72
+    21300146: diamond-pearl-shiny-frame2_73
+    21300148: diamond-pearl-shiny-frame2_74
+    21300150: diamond-pearl-shiny-frame2_75
+    21300152: diamond-pearl-shiny-frame2_76
+    21300154: diamond-pearl-shiny-frame2_77
+    21300156: diamond-pearl-shiny-frame2_78
+    21300158: diamond-pearl-shiny-frame2_79
+    21300160: diamond-pearl-shiny-frame2_80
+    21300162: diamond-pearl-shiny-frame2_81
+    21300164: diamond-pearl-shiny-frame2_82
+    21300166: diamond-pearl-shiny-frame2_83
+    21300168: diamond-pearl-shiny-frame2_84
+    21300170: diamond-pearl-shiny-frame2_85
+    21300172: diamond-pearl-shiny-frame2_86
+    21300174: diamond-pearl-shiny-frame2_87
+    21300176: diamond-pearl-shiny-frame2_88
+    21300178: diamond-pearl-shiny-frame2_89
+    21300180: diamond-pearl-shiny-frame2_90
+    21300182: diamond-pearl-shiny-frame2_91
+    21300184: diamond-pearl-shiny-frame2_92
+    21300186: diamond-pearl-shiny-frame2_93
+    21300188: diamond-pearl-shiny-frame2_94
+    21300190: diamond-pearl-shiny-frame2_95
+    21300192: diamond-pearl-shiny-frame2_96
+    21300194: diamond-pearl-shiny-frame2_97
+    21300196: diamond-pearl-shiny-frame2_98
+    21300198: diamond-pearl-shiny-frame2_99
+    21300200: diamond-pearl-shiny-frame2_100
+    21300202: diamond-pearl-shiny-frame2_101
+    21300204: diamond-pearl-shiny-frame2_102
+    21300206: diamond-pearl-shiny-frame2_103
+    21300208: diamond-pearl-shiny-frame2_104
+    21300210: diamond-pearl-shiny-frame2_105
+    21300212: diamond-pearl-shiny-frame2_106
+    21300214: diamond-pearl-shiny-frame2_107
+    21300216: diamond-pearl-shiny-frame2_108
+    21300218: diamond-pearl-shiny-frame2_109
+    21300220: diamond-pearl-shiny-frame2_110
+    21300222: diamond-pearl-shiny-frame2_111
+    21300224: diamond-pearl-shiny-frame2_112
+    21300226: diamond-pearl-shiny-frame2_113
+    21300228: diamond-pearl-shiny-frame2_114
+    21300230: diamond-pearl-shiny-frame2_115
+    21300232: diamond-pearl-shiny-frame2_116
+    21300234: diamond-pearl-shiny-frame2_117
+    21300236: diamond-pearl-shiny-frame2_118
+    21300238: diamond-pearl-shiny-frame2_119
+    21300240: diamond-pearl-shiny-frame2_120
+    21300242: diamond-pearl-shiny-frame2_121
+    21300244: diamond-pearl-shiny-frame2_122
+    21300246: diamond-pearl-shiny-frame2_123
+    21300248: diamond-pearl-shiny-frame2_124
+    21300250: diamond-pearl-shiny-frame2_125
+    21300252: diamond-pearl-shiny-frame2_126
+    21300254: diamond-pearl-shiny-frame2_127
+    21300256: diamond-pearl-shiny-frame2_128
+    21300258: diamond-pearl-shiny-frame2_129
+    21300260: diamond-pearl-shiny-frame2_130
+    21300262: diamond-pearl-shiny-frame2_131
+    21300264: diamond-pearl-shiny-frame2_132
+    21300266: diamond-pearl-shiny-frame2_133
+    21300268: diamond-pearl-shiny-frame2_134
+    21300270: diamond-pearl-shiny-frame2_135
+    21300272: diamond-pearl-shiny-frame2_136
+    21300274: diamond-pearl-shiny-frame2_137
+    21300276: diamond-pearl-shiny-frame2_138
+    21300278: diamond-pearl-shiny-frame2_139
+    21300280: diamond-pearl-shiny-frame2_140
+    21300282: diamond-pearl-shiny-frame2_141
+    21300284: diamond-pearl-shiny-frame2_142
+    21300286: diamond-pearl-shiny-frame2_143
+    21300288: diamond-pearl-shiny-frame2_144
+    21300290: diamond-pearl-shiny-frame2_145
+    21300292: diamond-pearl-shiny-frame2_146
+    21300294: diamond-pearl-shiny-frame2_147
+    21300296: diamond-pearl-shiny-frame2_148
+    21300298: diamond-pearl-shiny-frame2_149
+    21300300: diamond-pearl-shiny-frame2_150
+    21300302: diamond-pearl-shiny-frame2_151
+    21300304: diamond-pearl-shiny-frame2_152
+    21300306: diamond-pearl-shiny-frame2_153
+    21300308: diamond-pearl-shiny-frame2_154
+    21300310: diamond-pearl-shiny-frame2_155
+    21300312: diamond-pearl-shiny-frame2_156
+    21300314: diamond-pearl-shiny-frame2_157
+    21300316: diamond-pearl-shiny-frame2_158
+    21300318: diamond-pearl-shiny-frame2_159
+    21300320: diamond-pearl-shiny-frame2_160
+    21300322: diamond-pearl-shiny-frame2_161
+    21300324: diamond-pearl-shiny-frame2_162
+    21300326: diamond-pearl-shiny-frame2_163
+    21300328: diamond-pearl-shiny-frame2_164
+    21300330: diamond-pearl-shiny-frame2_165
+    21300332: diamond-pearl-shiny-frame2_166
+    21300334: diamond-pearl-shiny-frame2_167
+    21300336: diamond-pearl-shiny-frame2_168
+    21300338: diamond-pearl-shiny-frame2_169
+    21300340: diamond-pearl-shiny-frame2_170
+    21300342: diamond-pearl-shiny-frame2_171
+    21300344: diamond-pearl-shiny-frame2_172
+    21300346: diamond-pearl-shiny-frame2_173
+    21300348: diamond-pearl-shiny-frame2_174
+    21300350: diamond-pearl-shiny-frame2_175
+    21300352: diamond-pearl-shiny-frame2_176
+    21300354: diamond-pearl-shiny-frame2_177
+    21300356: diamond-pearl-shiny-frame2_178
+    21300358: diamond-pearl-shiny-frame2_179
+    21300360: diamond-pearl-shiny-frame2_180
+    21300362: diamond-pearl-shiny-frame2_181
+    21300364: diamond-pearl-shiny-frame2_182
+    21300366: diamond-pearl-shiny-frame2_183
+    21300368: diamond-pearl-shiny-frame2_184
+    21300370: diamond-pearl-shiny-frame2_185
+    21300372: diamond-pearl-shiny-frame2_186
+    21300374: diamond-pearl-shiny-frame2_187
+    21300376: diamond-pearl-shiny-frame2_188
+    21300378: diamond-pearl-shiny-frame2_189
+    21300380: diamond-pearl-shiny-frame2_190
+    21300382: diamond-pearl-shiny-frame2_191
+    21300384: diamond-pearl-shiny-frame2_192
+    21300386: diamond-pearl-shiny-frame2_193
+    21300388: diamond-pearl-shiny-frame2_194
+    21300390: diamond-pearl-shiny-frame2_195
+    21300392: diamond-pearl-shiny-frame2_196
+    21300394: diamond-pearl-shiny-frame2_197
+    21300396: diamond-pearl-shiny-frame2_198
+    21300398: diamond-pearl-shiny-frame2_199
+    21300400: diamond-pearl-shiny-frame2_200
+    21300402: diamond-pearl-shiny-frame2_201
+    21300404: diamond-pearl-shiny-frame2_202
+    21300406: diamond-pearl-shiny-frame2_203
+    21300408: diamond-pearl-shiny-frame2_204
+    21300410: diamond-pearl-shiny-frame2_205
+    21300412: diamond-pearl-shiny-frame2_206
+    21300414: diamond-pearl-shiny-frame2_207
+    21300416: diamond-pearl-shiny-frame2_208
+    21300418: diamond-pearl-shiny-frame2_209
+    21300420: diamond-pearl-shiny-frame2_210
+    21300422: diamond-pearl-shiny-frame2_211
+    21300424: diamond-pearl-shiny-frame2_212
+    21300426: diamond-pearl-shiny-frame2_213
+    21300428: diamond-pearl-shiny-frame2_214
+    21300430: diamond-pearl-shiny-frame2_215
+    21300432: diamond-pearl-shiny-frame2_216
+    21300434: diamond-pearl-shiny-frame2_217
+    21300436: diamond-pearl-shiny-frame2_218
+    21300438: diamond-pearl-shiny-frame2_219
+    21300440: diamond-pearl-shiny-frame2_220
+    21300442: diamond-pearl-shiny-frame2_221
+    21300444: diamond-pearl-shiny-frame2_222
+    21300446: diamond-pearl-shiny-frame2_223
+    21300448: diamond-pearl-shiny-frame2_224
+    21300450: diamond-pearl-shiny-frame2_225
+    21300452: diamond-pearl-shiny-frame2_226
+    21300454: diamond-pearl-shiny-frame2_227
+    21300456: diamond-pearl-shiny-frame2_228
+    21300458: diamond-pearl-shiny-frame2_229
+    21300460: diamond-pearl-shiny-frame2_230
+    21300462: diamond-pearl-shiny-frame2_231
+    21300464: diamond-pearl-shiny-frame2_232
+    21300466: diamond-pearl-shiny-frame2_233
+    21300468: diamond-pearl-shiny-frame2_234
+    21300470: diamond-pearl-shiny-frame2_235
+    21300472: diamond-pearl-shiny-frame2_236
+    21300474: diamond-pearl-shiny-frame2_237
+    21300476: diamond-pearl-shiny-frame2_238
+    21300478: diamond-pearl-shiny-frame2_239
+    21300480: diamond-pearl-shiny-frame2_240
+    21300482: diamond-pearl-shiny-frame2_241
+    21300484: diamond-pearl-shiny-frame2_242
+    21300486: diamond-pearl-shiny-frame2_243
+    21300488: diamond-pearl-shiny-frame2_244
+    21300490: diamond-pearl-shiny-frame2_245
+    21300492: diamond-pearl-shiny-frame2_246
+    21300494: diamond-pearl-shiny-frame2_247
+    21300496: diamond-pearl-shiny-frame2_248
+    21300498: diamond-pearl-shiny-frame2_249
+    21300500: diamond-pearl-shiny-frame2_250
+    21300502: diamond-pearl-shiny-frame2_251
+    21300504: diamond-pearl-shiny-frame2_252
+    21300506: diamond-pearl-shiny-frame2_253
+    21300508: diamond-pearl-shiny-frame2_254
+    21300510: diamond-pearl-shiny-frame2_255
+    21300512: diamond-pearl-shiny-frame2_256
+    21300514: diamond-pearl-shiny-frame2_257
+    21300516: diamond-pearl-shiny-frame2_258
+    21300518: diamond-pearl-shiny-frame2_259
+    21300520: diamond-pearl-shiny-frame2_260
+    21300522: diamond-pearl-shiny-frame2_261
+    21300524: diamond-pearl-shiny-frame2_262
+    21300526: diamond-pearl-shiny-frame2_263
+    21300528: diamond-pearl-shiny-frame2_264
+    21300530: diamond-pearl-shiny-frame2_265
+    21300532: diamond-pearl-shiny-frame2_266
+    21300534: diamond-pearl-shiny-frame2_267
+    21300536: diamond-pearl-shiny-frame2_268
+    21300538: diamond-pearl-shiny-frame2_269
+    21300540: diamond-pearl-shiny-frame2_270
+    21300542: diamond-pearl-shiny-frame2_271
+    21300544: diamond-pearl-shiny-frame2_272
+    21300546: diamond-pearl-shiny-frame2_273
+    21300548: diamond-pearl-shiny-frame2_274
+    21300550: diamond-pearl-shiny-frame2_275
+    21300552: diamond-pearl-shiny-frame2_276
+    21300554: diamond-pearl-shiny-frame2_277
+    21300556: diamond-pearl-shiny-frame2_278
+    21300558: diamond-pearl-shiny-frame2_279
+    21300560: diamond-pearl-shiny-frame2_280
+    21300562: diamond-pearl-shiny-frame2_281
+    21300564: diamond-pearl-shiny-frame2_282
+    21300566: diamond-pearl-shiny-frame2_283
+    21300568: diamond-pearl-shiny-frame2_284
+    21300570: diamond-pearl-shiny-frame2_285
+    21300572: diamond-pearl-shiny-frame2_286
+    21300574: diamond-pearl-shiny-frame2_287
+    21300576: diamond-pearl-shiny-frame2_288
+    21300578: diamond-pearl-shiny-frame2_289
+    21300580: diamond-pearl-shiny-frame2_290
+    21300582: diamond-pearl-shiny-frame2_291
+    21300584: diamond-pearl-shiny-frame2_292
+    21300586: diamond-pearl-shiny-frame2_293
+    21300588: diamond-pearl-shiny-frame2_294
+    21300590: diamond-pearl-shiny-frame2_295
+    21300592: diamond-pearl-shiny-frame2_296
+    21300594: diamond-pearl-shiny-frame2_297
+    21300596: diamond-pearl-shiny-frame2_298
+    21300598: diamond-pearl-shiny-frame2_299
+    21300600: diamond-pearl-shiny-frame2_300
+    21300602: diamond-pearl-shiny-frame2_301
+    21300604: diamond-pearl-shiny-frame2_302
+    21300606: diamond-pearl-shiny-frame2_303
+    21300608: diamond-pearl-shiny-frame2_304
+    21300610: diamond-pearl-shiny-frame2_305
+    21300612: diamond-pearl-shiny-frame2_306
+    21300614: diamond-pearl-shiny-frame2_307
+    21300616: diamond-pearl-shiny-frame2_308
+    21300618: diamond-pearl-shiny-frame2_309
+    21300620: diamond-pearl-shiny-frame2_310
+    21300622: diamond-pearl-shiny-frame2_311
+    21300624: diamond-pearl-shiny-frame2_312
+    21300626: diamond-pearl-shiny-frame2_313
+    21300628: diamond-pearl-shiny-frame2_314
+    21300630: diamond-pearl-shiny-frame2_315
+    21300632: diamond-pearl-shiny-frame2_316
+    21300634: diamond-pearl-shiny-frame2_317
+    21300636: diamond-pearl-shiny-frame2_318
+    21300638: diamond-pearl-shiny-frame2_319
+    21300640: diamond-pearl-shiny-frame2_320
+    21300642: diamond-pearl-shiny-frame2_321
+    21300644: diamond-pearl-shiny-frame2_322
+    21300646: diamond-pearl-shiny-frame2_323
+    21300648: diamond-pearl-shiny-frame2_324
+    21300650: diamond-pearl-shiny-frame2_325
+    21300652: diamond-pearl-shiny-frame2_326
+    21300654: diamond-pearl-shiny-frame2_327
+    21300656: diamond-pearl-shiny-frame2_328
+    21300658: diamond-pearl-shiny-frame2_329
+    21300660: diamond-pearl-shiny-frame2_330
+    21300662: diamond-pearl-shiny-frame2_331
+    21300664: diamond-pearl-shiny-frame2_332
+    21300666: diamond-pearl-shiny-frame2_333
+    21300668: diamond-pearl-shiny-frame2_334
+    21300670: diamond-pearl-shiny-frame2_335
+    21300672: diamond-pearl-shiny-frame2_336
+    21300674: diamond-pearl-shiny-frame2_337
+    21300676: diamond-pearl-shiny-frame2_338
+    21300678: diamond-pearl-shiny-frame2_339
+    21300680: diamond-pearl-shiny-frame2_340
+    21300682: diamond-pearl-shiny-frame2_341
+    21300684: diamond-pearl-shiny-frame2_342
+    21300686: diamond-pearl-shiny-frame2_343
+    21300688: diamond-pearl-shiny-frame2_344
+    21300690: diamond-pearl-shiny-frame2_345
+    21300692: diamond-pearl-shiny-frame2_346
+    21300694: diamond-pearl-shiny-frame2_347
+    21300696: diamond-pearl-shiny-frame2_348
+    21300698: diamond-pearl-shiny-frame2_349
+    21300700: diamond-pearl-shiny-frame2_350
+    21300702: diamond-pearl-shiny-frame2_351
+    21300704: diamond-pearl-shiny-frame2_352
+    21300706: diamond-pearl-shiny-frame2_353
+    21300708: diamond-pearl-shiny-frame2_354
+    21300710: diamond-pearl-shiny-frame2_355
+    21300712: diamond-pearl-shiny-frame2_356
+    21300714: diamond-pearl-shiny-frame2_357
+    21300716: diamond-pearl-shiny-frame2_358
+    21300718: diamond-pearl-shiny-frame2_359
+    21300720: diamond-pearl-shiny-frame2_360
+    21300722: diamond-pearl-shiny-frame2_361
+    21300724: diamond-pearl-shiny-frame2_362
+    21300726: diamond-pearl-shiny-frame2_363
+    21300728: diamond-pearl-shiny-frame2_364
+    21300730: diamond-pearl-shiny-frame2_365
+    21300732: diamond-pearl-shiny-frame2_366
+    21300734: diamond-pearl-shiny-frame2_367
+    21300736: diamond-pearl-shiny-frame2_368
+    21300738: diamond-pearl-shiny-frame2_369
+    21300740: diamond-pearl-shiny-frame2_370
+    21300742: diamond-pearl-shiny-frame2_371
+    21300744: diamond-pearl-shiny-frame2_372
+    21300746: diamond-pearl-shiny-frame2_373
+    21300748: diamond-pearl-shiny-frame2_374
+    21300750: diamond-pearl-shiny-frame2_375
+    21300752: diamond-pearl-shiny-frame2_376
+    21300754: diamond-pearl-shiny-frame2_377
+    21300756: diamond-pearl-shiny-frame2_378
+    21300758: diamond-pearl-shiny-frame2_379
+    21300760: diamond-pearl-shiny-frame2_380
+    21300762: diamond-pearl-shiny-frame2_381
+    21300764: diamond-pearl-shiny-frame2_382
+    21300766: diamond-pearl-shiny-frame2_383
+    21300768: diamond-pearl-shiny-frame2_384
+    21300770: diamond-pearl-shiny-frame2_385
+    21300772: diamond-pearl-shiny-frame2_386
+    21300774: diamond-pearl-shiny-frame2_387
+    21300776: diamond-pearl-shiny-frame2_388
+    21300778: diamond-pearl-shiny-frame2_389
+    21300780: diamond-pearl-shiny-frame2_390
+    21300782: diamond-pearl-shiny-frame2_391
+    21300784: diamond-pearl-shiny-frame2_392
+    21300786: diamond-pearl-shiny-frame2_393
+    21300788: diamond-pearl-shiny-frame2_394
+    21300790: diamond-pearl-shiny-frame2_395
+    21300792: diamond-pearl-shiny-frame2_396
+    21300794: diamond-pearl-shiny-frame2_397
+    21300796: diamond-pearl-shiny-frame2_398
+    21300798: diamond-pearl-shiny-frame2_399
+    21300800: diamond-pearl-shiny-frame2_400
+    21300802: diamond-pearl-shiny-frame2_401
+    21300804: diamond-pearl-shiny-frame2_402
+    21300806: diamond-pearl-shiny-frame2_403
+    21300808: diamond-pearl-shiny-frame2_404
+    21300810: diamond-pearl-shiny-frame2_405
+    21300812: diamond-pearl-shiny-frame2_406
+    21300814: diamond-pearl-shiny-frame2_407
+    21300816: diamond-pearl-shiny-frame2_408
+    21300818: diamond-pearl-shiny-frame2_409
+    21300820: diamond-pearl-shiny-frame2_410
+    21300822: diamond-pearl-shiny-frame2_411
+    21300824: diamond-pearl-shiny-frame2_412
+    21300826: diamond-pearl-shiny-frame2_413
+    21300828: diamond-pearl-shiny-frame2_414
+    21300830: diamond-pearl-shiny-frame2_415
+    21300832: diamond-pearl-shiny-frame2_416
+    21300834: diamond-pearl-shiny-frame2_417
+    21300836: diamond-pearl-shiny-frame2_418
+    21300838: diamond-pearl-shiny-frame2_419
+    21300840: diamond-pearl-shiny-frame2_420
+    21300842: diamond-pearl-shiny-frame2_421
+    21300844: diamond-pearl-shiny-frame2_422
+    21300846: diamond-pearl-shiny-frame2_423
+    21300848: diamond-pearl-shiny-frame2_424
+    21300850: diamond-pearl-shiny-frame2_425
+    21300852: diamond-pearl-shiny-frame2_426
+    21300854: diamond-pearl-shiny-frame2_427
+    21300856: diamond-pearl-shiny-frame2_428
+    21300858: diamond-pearl-shiny-frame2_429
+    21300860: diamond-pearl-shiny-frame2_430
+    21300862: diamond-pearl-shiny-frame2_431
+    21300864: diamond-pearl-shiny-frame2_432
+    21300866: diamond-pearl-shiny-frame2_433
+    21300868: diamond-pearl-shiny-frame2_434
+    21300870: diamond-pearl-shiny-frame2_435
+    21300872: diamond-pearl-shiny-frame2_436
+    21300874: diamond-pearl-shiny-frame2_437
+    21300876: diamond-pearl-shiny-frame2_438
+    21300878: diamond-pearl-shiny-frame2_439
+    21300880: diamond-pearl-shiny-frame2_440
+    21300882: diamond-pearl-shiny-frame2_441
+    21300884: diamond-pearl-shiny-frame2_442
+    21300886: diamond-pearl-shiny-frame2_443
+    21300888: diamond-pearl-shiny-frame2_444
+    21300890: diamond-pearl-shiny-frame2_445
+    21300892: diamond-pearl-shiny-frame2_446
+    21300894: diamond-pearl-shiny-frame2_447
+    21300896: diamond-pearl-shiny-frame2_448
+    21300898: diamond-pearl-shiny-frame2_449
+    21300900: diamond-pearl-shiny-frame2_450
+    21300902: diamond-pearl-shiny-frame2_451
+    21300904: diamond-pearl-shiny-frame2_452
+    21300906: diamond-pearl-shiny-frame2_453
+    21300908: diamond-pearl-shiny-frame2_454
+    21300910: diamond-pearl-shiny-frame2_455
+    21300912: diamond-pearl-shiny-frame2_456
+    21300914: diamond-pearl-shiny-frame2_457
+    21300916: diamond-pearl-shiny-frame2_458
+    21300918: diamond-pearl-shiny-frame2_459
+    21300920: diamond-pearl-shiny-frame2_460
+    21300922: diamond-pearl-shiny-frame2_461
+    21300924: diamond-pearl-shiny-frame2_462
+    21300926: diamond-pearl-shiny-frame2_463
+    21300928: diamond-pearl-shiny-frame2_464
+    21300930: diamond-pearl-shiny-frame2_465
+    21300932: diamond-pearl-shiny-frame2_466
+    21300934: diamond-pearl-shiny-frame2_467
+    21300936: diamond-pearl-shiny-frame2_468
+    21300938: diamond-pearl-shiny-frame2_469
+    21300940: diamond-pearl-shiny-frame2_470
+    21300942: diamond-pearl-shiny-frame2_471
+    21300944: diamond-pearl-shiny-frame2_472
+    21300946: diamond-pearl-shiny-frame2_473
+    21300948: diamond-pearl-shiny-frame2_474
+    21300950: diamond-pearl-shiny-frame2_475
+    21300952: diamond-pearl-shiny-frame2_476
+    21300954: diamond-pearl-shiny-frame2_477
+    21300956: diamond-pearl-shiny-frame2_478
+    21300958: diamond-pearl-shiny-frame2_479
+    21300960: diamond-pearl-shiny-frame2_480
+    21300962: diamond-pearl-shiny-frame2_481
+    21300964: diamond-pearl-shiny-frame2_482
+    21300966: diamond-pearl-shiny-frame2_483
+    21300968: diamond-pearl-shiny-frame2_484
+    21300970: diamond-pearl-shiny-frame2_485
+    21300972: diamond-pearl-shiny-frame2_486
+    21300974: diamond-pearl-shiny-frame2_487
+    21300976: diamond-pearl-shiny-frame2_488
+    21300978: diamond-pearl-shiny-frame2_489
+    21300980: diamond-pearl-shiny-frame2_490
+    21300982: diamond-pearl-shiny-frame2_491
+    21300984: diamond-pearl-shiny-frame2_492
+    21300986: diamond-pearl-shiny-frame2_493
+    21300988: diamond-pearl-shiny-frame2_494
+    21300990: diamond-pearl-shiny-frame2_495
+    21300992: diamond-pearl-shiny-frame2_496
+    21300994: diamond-pearl-shiny-frame2_497
+    21300996: diamond-pearl-shiny-frame2_498
+    21300998: diamond-pearl-shiny-frame2_499
+    21301000: diamond-pearl-shiny-frame2_500
+    21301002: diamond-pearl-shiny-frame2_501
+    21301004: diamond-pearl-shiny-frame2_502
+    21301006: diamond-pearl-shiny-frame2_503
+    21301008: diamond-pearl-shiny-frame2_504
+    21301010: diamond-pearl-shiny-frame2_505
+    21301012: diamond-pearl-shiny-frame2_506
+    21301014: diamond-pearl-shiny-frame2_507
+    21301016: diamond-pearl-shiny-frame2_508
+    21301018: diamond-pearl-shiny-frame2_509
+    21301020: diamond-pearl-shiny-frame2_510
+    21301022: diamond-pearl-shiny-frame2_511
+    21301024: diamond-pearl-shiny-frame2_512
+    21301026: diamond-pearl-shiny-frame2_513
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: diamond-pearl-shiny-frame2_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1380
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1375
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1364
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1377
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1374
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1360
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1382
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1370
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1368
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1383
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_10
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1384
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_11
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1377
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_12
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1382
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_13
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1381
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_14
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1364
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_15
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1386
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_16
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1366
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_17
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1367
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_18
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1379
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_19
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1375
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_20
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1388
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_21
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1364
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_22
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1384
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_23
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1366
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_24
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1377
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_25
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1371
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_26
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1400
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_27
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1373
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1295
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1293
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1287
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1304
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1295
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_33
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1292
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_34
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1303
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_35
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1296
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1299
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1292
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_38
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1300
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_39
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1298
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_40
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1309
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_41
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1289
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_42
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1299
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_43
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1297
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_44
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1293
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_45
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1307
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1296
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_47
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1299
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_48
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1286
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_49
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1304
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_50
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1299
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_51
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1298
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_52
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1293
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_53
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1299
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_54
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1289
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_55
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1297
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1217
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1217
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1205
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_59
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1227
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_60
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1219
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1208
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_62
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1218
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_63
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1210
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_64
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1208
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_65
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1215
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_66
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1209
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_67
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1206
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_68
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1218
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_69
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1216
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_70
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1209
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_71
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1212
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_72
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1200
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_73
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1221
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_74
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1210
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_75
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1213
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_76
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1213
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_77
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1209
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_78
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1220
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_79
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1212
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_80
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1228
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_81
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1214
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_82
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1223
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_83
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1214
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_84
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1122
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_85
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1129
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_86
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1133
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_87
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1127
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_88
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1189
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_89
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_90
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1127
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1122
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_92
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1136
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_93
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1173
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_94
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1133
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_95
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1124
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_96
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1128
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_97
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1141
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_98
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1129
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_99
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1137
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_100
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1183
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_101
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1177
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_102
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1185
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_103
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1180
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_104
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1136
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_105
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1134
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_106
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1144
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_107
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1130
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_108
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1137
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_109
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1128
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_110
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1174
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_111
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1170
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_112
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1137
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_113
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1140
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_114
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1144
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_115
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1137
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_116
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1145
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_117
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1140
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_118
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1137
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_119
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1169
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_120
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1155
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_121
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1160
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_122
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_123
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1159
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_124
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1154
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_125
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1145
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_126
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_127
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1144
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_128
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1138
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_129
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_130
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1135
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_131
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_132
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1058
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_133
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1060
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1045
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_135
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1065
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_136
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1055
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_137
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1063
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_138
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1059
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_139
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1060
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_140
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1056
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_141
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1054
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_142
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1055
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_143
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1054
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_144
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1043
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_145
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1050
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_146
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1049
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_147
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1052
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_148
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1054
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_149
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1040
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_150
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1051
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_151
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1066
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_152
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1059
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_153
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1051
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_154
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1057
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_155
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1058
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_156
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1061
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_157
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1060
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_158
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1055
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_159
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1061
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_160
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 969
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_161
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 961
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_162
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 966
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_163
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 965
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_164
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 966
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 966
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_166
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 982
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_167
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 970
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_168
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 966
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_169
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 965
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_170
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 983
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_171
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 976
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_172
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 967
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_173
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 963
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_174
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 980
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_175
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 976
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_176
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 965
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_177
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 982
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_178
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 974
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_179
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 965
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_180
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 969
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_181
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 974
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_182
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 979
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_183
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 967
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_184
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 976
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_185
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 974
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_186
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 984
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_187
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 975
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_188
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 881
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_189
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 903
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_190
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 897
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_191
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 903
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_192
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 906
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_193
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 907
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_194
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 906
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_195
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 898
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_196
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 906
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_197
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 893
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_198
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 898
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_199
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 896
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_200
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 889
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_201
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 903
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_202
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 902
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_203
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 900
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_204
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 894
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_205
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 892
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_206
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 905
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_207
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 904
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_208
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 891
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_209
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 891
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_210
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 903
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_211
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 896
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_212
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 898
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_213
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 905
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_214
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 893
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_215
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 893
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_216
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 817
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_217
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 808
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_218
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 806
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_219
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 821
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_220
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 814
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_221
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 809
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_222
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 819
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_223
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 816
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_224
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 821
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_225
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 812
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_226
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 807
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_227
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 819
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_228
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 813
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_229
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 829
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_230
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 806
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_231
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 821
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_232
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 809
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_233
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 808
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_234
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 822
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_235
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 807
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_236
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 819
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_237
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 814
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_238
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 827
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_239
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 815
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_240
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 821
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_241
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 823
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_242
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 818
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_243
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 735
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_244
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 734
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_245
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_246
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 740
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_247
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 729
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_248
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 729
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_249
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 742
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_250
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 737
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_251
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 742
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_252
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 731
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_253
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 730
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_254
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 734
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_255
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 734
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_256
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 743
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_257
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 735
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_258
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 741
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_259
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 735
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_260
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 730
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_261
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 726
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_262
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 726
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_263
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 728
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_264
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 735
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_265
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 738
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_266
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_267
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 721
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_268
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 720
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_269
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 741
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_270
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 735
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_271
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 653
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_272
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 647
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_273
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 658
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_274
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 645
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_275
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 644
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_276
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 659
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_277
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 654
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_278
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 648
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_279
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 660
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_280
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 651
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_281
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 658
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_282
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 648
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_283
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 663
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_284
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 661
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_285
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 658
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_286
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 656
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_287
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 661
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_288
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 664
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_289
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 661
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_290
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 647
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_291
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 675
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_292
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 656
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_293
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 650
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_294
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 664
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_295
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 648
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_296
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 653
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_297
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 644
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_298
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 661
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_299
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 574
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_300
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 565
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_301
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 580
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_302
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 565
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_303
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 587
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_304
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 569
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_305
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 585
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_306
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 567
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_307
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 569
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_308
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 587
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_309
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 579
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_310
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 579
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_311
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 581
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_312
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 568
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_313
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 568
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_314
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 576
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_315
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 566
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_316
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 580
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_317
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 575
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_318
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 578
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_319
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 572
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_320
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 578
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_321
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 574
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_322
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 583
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_323
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 578
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_324
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 566
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_325
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 580
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_326
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 567
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_327
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 503
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_328
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_329
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 500
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_330
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 500
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_331
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 497
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_332
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 497
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_333
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 499
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_334
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 504
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_335
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 492
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_336
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 494
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_337
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 483
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_338
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 501
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_339
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 485
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_340
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 499
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_341
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 491
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_342
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 532
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_343
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 496
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_344
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 491
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_345
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 495
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_346
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 503
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_347
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 495
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_348
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 480
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_349
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 502
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_350
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 485
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_351
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 488
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_352
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 489
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_353
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 488
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_354
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 499
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_355
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 494
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_356
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 417
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_357
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 407
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_358
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 422
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_359
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 415
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_360
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 418
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_361
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 410
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_362
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 424
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_363
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 421
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_364
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 411
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_365
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 416
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_366
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 406
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_367
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 416
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_368
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 408
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_369
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 420
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_370
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_371
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 425
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_372
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 415
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_373
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 420
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_374
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 412
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_375
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 424
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_376
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 407
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_377
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 401
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_378
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 418
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_379
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 408
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_380
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 421
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_381
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 420
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_382
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 412
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_383
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 421
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_384
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 419
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_385
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 329
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_386
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 340
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_387
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 334
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_388
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 328
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_389
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 335
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_390
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 343
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_391
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 337
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_392
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 334
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_393
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 325
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_394
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 341
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_395
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 332
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_396
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 343
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_397
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 327
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_398
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 332
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_399
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 330
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_400
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 329
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_401
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 325
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_402
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 322
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_403
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 324
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_404
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 321
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_405
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 338
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_406
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 325
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_407
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 339
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_408
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 332
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_409
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 320
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_410
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 341
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_411
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 338
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_412
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 333
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_413
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 263
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_414
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 251
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_415
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 242
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_416
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 260
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_417
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 254
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_418
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 248
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_419
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 265
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_420
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 251
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_421
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 257
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_422
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 250
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_423
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 262
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_424
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 256
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_425
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 249
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_426
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 256
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_427
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 251
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_428
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 252
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_429
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 243
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_430
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 261
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_431
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 253
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_432
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 254
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_433
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 253
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_434
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 257
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_435
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 264
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_436
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 252
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_437
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 255
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_438
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 276
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_439
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 245
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_440
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 265
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_441
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 178
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_442
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 177
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_443
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 173
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_444
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 167
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_445
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 174
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_446
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 175
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_447
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 176
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_448
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 170
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_449
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 166
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_450
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 172
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_451
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 173
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_452
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 171
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_453
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 182
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_454
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 179
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_455
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 173
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_456
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 181
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_457
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 171
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_458
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 176
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_459
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 173
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_460
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 179
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_461
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 176
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_462
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 174
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_463
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 179
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_464
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 169
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_465
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 162
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_466
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 181
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_467
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 177
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_468
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 169
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_469
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 99
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_470
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 87
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_471
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 97
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_472
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 89
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_473
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_474
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 91
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_475
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 93
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_476
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 104
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_477
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 92
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_478
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 97
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_479
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 95
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_480
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 83
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_481
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 90
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_482
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 97
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_483
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 88
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_484
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 85
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_485
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 85
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_486
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 87
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_487
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 84
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_488
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 101
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_489
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 90
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_490
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 95
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_491
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 94
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_492
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 84
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_493
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 86
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_494
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 127
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_495
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 86
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_496
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 88
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_497
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_498
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_499
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 24
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_500
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 22
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_501
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 19
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_502
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 26
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_503
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_504
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_505
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 12
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_506
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 5
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_507
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_508
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 7
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_509
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 22
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_510
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 22
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_511
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 9
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_512
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 27
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond-pearl-shiny-frame2_513
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 0
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
