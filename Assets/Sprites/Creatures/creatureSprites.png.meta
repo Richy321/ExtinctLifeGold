@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f2efd8c1776d30a44a10bded185068d5
-timeCreated: 1427152652
+timeCreated: 1427321875
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -518,6 +518,520 @@ TextureImporter:
     21301022: diamond-pearl-shiny-frame2_511
     21301024: diamond-pearl-shiny-frame2_512
     21301026: diamond-pearl-shiny-frame2_513
+    21301028: creatureSprites_0
+    21301030: creatureSprites_1
+    21301032: creatureSprites_2
+    21301034: creatureSprites_3
+    21301036: creatureSprites_4
+    21301038: creatureSprites_5
+    21301040: creatureSprites_6
+    21301042: creatureSprites_7
+    21301044: creatureSprites_8
+    21301046: creatureSprites_9
+    21301048: creatureSprites_10
+    21301050: creatureSprites_11
+    21301052: creatureSprites_12
+    21301054: creatureSprites_13
+    21301056: creatureSprites_14
+    21301058: creatureSprites_15
+    21301060: creatureSprites_16
+    21301062: creatureSprites_17
+    21301064: creatureSprites_18
+    21301066: creatureSprites_19
+    21301068: creatureSprites_20
+    21301070: creatureSprites_21
+    21301072: creatureSprites_22
+    21301074: creatureSprites_23
+    21301076: creatureSprites_24
+    21301078: creatureSprites_25
+    21301080: creatureSprites_26
+    21301082: creatureSprites_27
+    21301084: creatureSprites_28
+    21301086: creatureSprites_29
+    21301088: creatureSprites_30
+    21301090: creatureSprites_31
+    21301092: creatureSprites_32
+    21301094: creatureSprites_33
+    21301096: creatureSprites_34
+    21301098: creatureSprites_35
+    21301100: creatureSprites_36
+    21301102: creatureSprites_37
+    21301104: creatureSprites_38
+    21301106: creatureSprites_39
+    21301108: creatureSprites_40
+    21301110: creatureSprites_41
+    21301112: creatureSprites_42
+    21301114: creatureSprites_43
+    21301116: creatureSprites_44
+    21301118: creatureSprites_45
+    21301120: creatureSprites_46
+    21301122: creatureSprites_47
+    21301124: creatureSprites_48
+    21301126: creatureSprites_49
+    21301128: creatureSprites_50
+    21301130: creatureSprites_51
+    21301132: creatureSprites_52
+    21301134: creatureSprites_53
+    21301136: creatureSprites_54
+    21301138: creatureSprites_55
+    21301140: creatureSprites_56
+    21301142: creatureSprites_57
+    21301144: creatureSprites_58
+    21301146: creatureSprites_59
+    21301148: creatureSprites_60
+    21301150: creatureSprites_61
+    21301152: creatureSprites_62
+    21301154: creatureSprites_63
+    21301156: creatureSprites_64
+    21301158: creatureSprites_65
+    21301160: creatureSprites_66
+    21301162: creatureSprites_67
+    21301164: creatureSprites_68
+    21301166: creatureSprites_69
+    21301168: creatureSprites_70
+    21301170: creatureSprites_71
+    21301172: creatureSprites_72
+    21301174: creatureSprites_73
+    21301176: creatureSprites_74
+    21301178: creatureSprites_75
+    21301180: creatureSprites_76
+    21301182: creatureSprites_77
+    21301184: creatureSprites_78
+    21301186: creatureSprites_79
+    21301188: creatureSprites_80
+    21301190: creatureSprites_81
+    21301192: creatureSprites_82
+    21301194: creatureSprites_83
+    21301196: creatureSprites_84
+    21301198: creatureSprites_85
+    21301200: creatureSprites_86
+    21301202: creatureSprites_87
+    21301204: creatureSprites_88
+    21301206: creatureSprites_89
+    21301208: creatureSprites_90
+    21301210: creatureSprites_91
+    21301212: creatureSprites_92
+    21301214: creatureSprites_93
+    21301216: creatureSprites_94
+    21301218: creatureSprites_95
+    21301220: creatureSprites_96
+    21301222: creatureSprites_97
+    21301224: creatureSprites_98
+    21301226: creatureSprites_99
+    21301228: creatureSprites_100
+    21301230: creatureSprites_101
+    21301232: creatureSprites_102
+    21301234: creatureSprites_103
+    21301236: creatureSprites_104
+    21301238: creatureSprites_105
+    21301240: creatureSprites_106
+    21301242: creatureSprites_107
+    21301244: creatureSprites_108
+    21301246: creatureSprites_109
+    21301248: creatureSprites_110
+    21301250: creatureSprites_111
+    21301252: creatureSprites_112
+    21301254: creatureSprites_113
+    21301256: creatureSprites_114
+    21301258: creatureSprites_115
+    21301260: creatureSprites_116
+    21301262: creatureSprites_117
+    21301264: creatureSprites_118
+    21301266: creatureSprites_119
+    21301268: creatureSprites_120
+    21301270: creatureSprites_121
+    21301272: creatureSprites_122
+    21301274: creatureSprites_123
+    21301276: creatureSprites_124
+    21301278: creatureSprites_125
+    21301280: creatureSprites_126
+    21301282: creatureSprites_127
+    21301284: creatureSprites_128
+    21301286: creatureSprites_129
+    21301288: creatureSprites_130
+    21301290: creatureSprites_131
+    21301292: creatureSprites_132
+    21301294: creatureSprites_133
+    21301296: creatureSprites_134
+    21301298: creatureSprites_135
+    21301300: creatureSprites_136
+    21301302: creatureSprites_137
+    21301304: creatureSprites_138
+    21301306: creatureSprites_139
+    21301308: creatureSprites_140
+    21301310: creatureSprites_141
+    21301312: creatureSprites_142
+    21301314: creatureSprites_143
+    21301316: creatureSprites_144
+    21301318: creatureSprites_145
+    21301320: creatureSprites_146
+    21301322: creatureSprites_147
+    21301324: creatureSprites_148
+    21301326: creatureSprites_149
+    21301328: creatureSprites_150
+    21301330: creatureSprites_151
+    21301332: creatureSprites_152
+    21301334: creatureSprites_153
+    21301336: creatureSprites_154
+    21301338: creatureSprites_155
+    21301340: creatureSprites_156
+    21301342: creatureSprites_157
+    21301344: creatureSprites_158
+    21301346: creatureSprites_159
+    21301348: creatureSprites_160
+    21301350: creatureSprites_161
+    21301352: creatureSprites_162
+    21301354: creatureSprites_163
+    21301356: creatureSprites_164
+    21301358: creatureSprites_165
+    21301360: creatureSprites_166
+    21301362: creatureSprites_167
+    21301364: creatureSprites_168
+    21301366: creatureSprites_169
+    21301368: creatureSprites_170
+    21301370: creatureSprites_171
+    21301372: creatureSprites_172
+    21301374: creatureSprites_173
+    21301376: creatureSprites_174
+    21301378: creatureSprites_175
+    21301380: creatureSprites_176
+    21301382: creatureSprites_177
+    21301384: creatureSprites_178
+    21301386: creatureSprites_179
+    21301388: creatureSprites_180
+    21301390: creatureSprites_181
+    21301392: creatureSprites_182
+    21301394: creatureSprites_183
+    21301396: creatureSprites_184
+    21301398: creatureSprites_185
+    21301400: creatureSprites_186
+    21301402: creatureSprites_187
+    21301404: creatureSprites_188
+    21301406: creatureSprites_189
+    21301408: creatureSprites_190
+    21301410: creatureSprites_191
+    21301412: creatureSprites_192
+    21301414: creatureSprites_193
+    21301416: creatureSprites_194
+    21301418: creatureSprites_195
+    21301420: creatureSprites_196
+    21301422: creatureSprites_197
+    21301424: creatureSprites_198
+    21301426: creatureSprites_199
+    21301428: creatureSprites_200
+    21301430: creatureSprites_201
+    21301432: creatureSprites_202
+    21301434: creatureSprites_203
+    21301436: creatureSprites_204
+    21301438: creatureSprites_205
+    21301440: creatureSprites_206
+    21301442: creatureSprites_207
+    21301444: creatureSprites_208
+    21301446: creatureSprites_209
+    21301448: creatureSprites_210
+    21301450: creatureSprites_211
+    21301452: creatureSprites_212
+    21301454: creatureSprites_213
+    21301456: creatureSprites_214
+    21301458: creatureSprites_215
+    21301460: creatureSprites_216
+    21301462: creatureSprites_217
+    21301464: creatureSprites_218
+    21301466: creatureSprites_219
+    21301468: creatureSprites_220
+    21301470: creatureSprites_221
+    21301472: creatureSprites_222
+    21301474: creatureSprites_223
+    21301476: creatureSprites_224
+    21301478: creatureSprites_225
+    21301480: creatureSprites_226
+    21301482: creatureSprites_227
+    21301484: creatureSprites_228
+    21301486: creatureSprites_229
+    21301488: creatureSprites_230
+    21301490: creatureSprites_231
+    21301492: creatureSprites_232
+    21301494: creatureSprites_233
+    21301496: creatureSprites_234
+    21301498: creatureSprites_235
+    21301500: creatureSprites_236
+    21301502: creatureSprites_237
+    21301504: creatureSprites_238
+    21301506: creatureSprites_239
+    21301508: creatureSprites_240
+    21301510: creatureSprites_241
+    21301512: creatureSprites_242
+    21301514: creatureSprites_243
+    21301516: creatureSprites_244
+    21301518: creatureSprites_245
+    21301520: creatureSprites_246
+    21301522: creatureSprites_247
+    21301524: creatureSprites_248
+    21301526: creatureSprites_249
+    21301528: creatureSprites_250
+    21301530: creatureSprites_251
+    21301532: creatureSprites_252
+    21301534: creatureSprites_253
+    21301536: creatureSprites_254
+    21301538: creatureSprites_255
+    21301540: creatureSprites_256
+    21301542: creatureSprites_257
+    21301544: creatureSprites_258
+    21301546: creatureSprites_259
+    21301548: creatureSprites_260
+    21301550: creatureSprites_261
+    21301552: creatureSprites_262
+    21301554: creatureSprites_263
+    21301556: creatureSprites_264
+    21301558: creatureSprites_265
+    21301560: creatureSprites_266
+    21301562: creatureSprites_267
+    21301564: creatureSprites_268
+    21301566: creatureSprites_269
+    21301568: creatureSprites_270
+    21301570: creatureSprites_271
+    21301572: creatureSprites_272
+    21301574: creatureSprites_273
+    21301576: creatureSprites_274
+    21301578: creatureSprites_275
+    21301580: creatureSprites_276
+    21301582: creatureSprites_277
+    21301584: creatureSprites_278
+    21301586: creatureSprites_279
+    21301588: creatureSprites_280
+    21301590: creatureSprites_281
+    21301592: creatureSprites_282
+    21301594: creatureSprites_283
+    21301596: creatureSprites_284
+    21301598: creatureSprites_285
+    21301600: creatureSprites_286
+    21301602: creatureSprites_287
+    21301604: creatureSprites_288
+    21301606: creatureSprites_289
+    21301608: creatureSprites_290
+    21301610: creatureSprites_291
+    21301612: creatureSprites_292
+    21301614: creatureSprites_293
+    21301616: creatureSprites_294
+    21301618: creatureSprites_295
+    21301620: creatureSprites_296
+    21301622: creatureSprites_297
+    21301624: creatureSprites_298
+    21301626: creatureSprites_299
+    21301628: creatureSprites_300
+    21301630: creatureSprites_301
+    21301632: creatureSprites_302
+    21301634: creatureSprites_303
+    21301636: creatureSprites_304
+    21301638: creatureSprites_305
+    21301640: creatureSprites_306
+    21301642: creatureSprites_307
+    21301644: creatureSprites_308
+    21301646: creatureSprites_309
+    21301648: creatureSprites_310
+    21301650: creatureSprites_311
+    21301652: creatureSprites_312
+    21301654: creatureSprites_313
+    21301656: creatureSprites_314
+    21301658: creatureSprites_315
+    21301660: creatureSprites_316
+    21301662: creatureSprites_317
+    21301664: creatureSprites_318
+    21301666: creatureSprites_319
+    21301668: creatureSprites_320
+    21301670: creatureSprites_321
+    21301672: creatureSprites_322
+    21301674: creatureSprites_323
+    21301676: creatureSprites_324
+    21301678: creatureSprites_325
+    21301680: creatureSprites_326
+    21301682: creatureSprites_327
+    21301684: creatureSprites_328
+    21301686: creatureSprites_329
+    21301688: creatureSprites_330
+    21301690: creatureSprites_331
+    21301692: creatureSprites_332
+    21301694: creatureSprites_333
+    21301696: creatureSprites_334
+    21301698: creatureSprites_335
+    21301700: creatureSprites_336
+    21301702: creatureSprites_337
+    21301704: creatureSprites_338
+    21301706: creatureSprites_339
+    21301708: creatureSprites_340
+    21301710: creatureSprites_341
+    21301712: creatureSprites_342
+    21301714: creatureSprites_343
+    21301716: creatureSprites_344
+    21301718: creatureSprites_345
+    21301720: creatureSprites_346
+    21301722: creatureSprites_347
+    21301724: creatureSprites_348
+    21301726: creatureSprites_349
+    21301728: creatureSprites_350
+    21301730: creatureSprites_351
+    21301732: creatureSprites_352
+    21301734: creatureSprites_353
+    21301736: creatureSprites_354
+    21301738: creatureSprites_355
+    21301740: creatureSprites_356
+    21301742: creatureSprites_357
+    21301744: creatureSprites_358
+    21301746: creatureSprites_359
+    21301748: creatureSprites_360
+    21301750: creatureSprites_361
+    21301752: creatureSprites_362
+    21301754: creatureSprites_363
+    21301756: creatureSprites_364
+    21301758: creatureSprites_365
+    21301760: creatureSprites_366
+    21301762: creatureSprites_367
+    21301764: creatureSprites_368
+    21301766: creatureSprites_369
+    21301768: creatureSprites_370
+    21301770: creatureSprites_371
+    21301772: creatureSprites_372
+    21301774: creatureSprites_373
+    21301776: creatureSprites_374
+    21301778: creatureSprites_375
+    21301780: creatureSprites_376
+    21301782: creatureSprites_377
+    21301784: creatureSprites_378
+    21301786: creatureSprites_379
+    21301788: creatureSprites_380
+    21301790: creatureSprites_381
+    21301792: creatureSprites_382
+    21301794: creatureSprites_383
+    21301796: creatureSprites_384
+    21301798: creatureSprites_385
+    21301800: creatureSprites_386
+    21301802: creatureSprites_387
+    21301804: creatureSprites_388
+    21301806: creatureSprites_389
+    21301808: creatureSprites_390
+    21301810: creatureSprites_391
+    21301812: creatureSprites_392
+    21301814: creatureSprites_393
+    21301816: creatureSprites_394
+    21301818: creatureSprites_395
+    21301820: creatureSprites_396
+    21301822: creatureSprites_397
+    21301824: creatureSprites_398
+    21301826: creatureSprites_399
+    21301828: creatureSprites_400
+    21301830: creatureSprites_401
+    21301832: creatureSprites_402
+    21301834: creatureSprites_403
+    21301836: creatureSprites_404
+    21301838: creatureSprites_405
+    21301840: creatureSprites_406
+    21301842: creatureSprites_407
+    21301844: creatureSprites_408
+    21301846: creatureSprites_409
+    21301848: creatureSprites_410
+    21301850: creatureSprites_411
+    21301852: creatureSprites_412
+    21301854: creatureSprites_413
+    21301856: creatureSprites_414
+    21301858: creatureSprites_415
+    21301860: creatureSprites_416
+    21301862: creatureSprites_417
+    21301864: creatureSprites_418
+    21301866: creatureSprites_419
+    21301868: creatureSprites_420
+    21301870: creatureSprites_421
+    21301872: creatureSprites_422
+    21301874: creatureSprites_423
+    21301876: creatureSprites_424
+    21301878: creatureSprites_425
+    21301880: creatureSprites_426
+    21301882: creatureSprites_427
+    21301884: creatureSprites_428
+    21301886: creatureSprites_429
+    21301888: creatureSprites_430
+    21301890: creatureSprites_431
+    21301892: creatureSprites_432
+    21301894: creatureSprites_433
+    21301896: creatureSprites_434
+    21301898: creatureSprites_435
+    21301900: creatureSprites_436
+    21301902: creatureSprites_437
+    21301904: creatureSprites_438
+    21301906: creatureSprites_439
+    21301908: creatureSprites_440
+    21301910: creatureSprites_441
+    21301912: creatureSprites_442
+    21301914: creatureSprites_443
+    21301916: creatureSprites_444
+    21301918: creatureSprites_445
+    21301920: creatureSprites_446
+    21301922: creatureSprites_447
+    21301924: creatureSprites_448
+    21301926: creatureSprites_449
+    21301928: creatureSprites_450
+    21301930: creatureSprites_451
+    21301932: creatureSprites_452
+    21301934: creatureSprites_453
+    21301936: creatureSprites_454
+    21301938: creatureSprites_455
+    21301940: creatureSprites_456
+    21301942: creatureSprites_457
+    21301944: creatureSprites_458
+    21301946: creatureSprites_459
+    21301948: creatureSprites_460
+    21301950: creatureSprites_461
+    21301952: creatureSprites_462
+    21301954: creatureSprites_463
+    21301956: creatureSprites_464
+    21301958: creatureSprites_465
+    21301960: creatureSprites_466
+    21301962: creatureSprites_467
+    21301964: creatureSprites_468
+    21301966: creatureSprites_469
+    21301968: creatureSprites_470
+    21301970: creatureSprites_471
+    21301972: creatureSprites_472
+    21301974: creatureSprites_473
+    21301976: creatureSprites_474
+    21301978: creatureSprites_475
+    21301980: creatureSprites_476
+    21301982: creatureSprites_477
+    21301984: creatureSprites_478
+    21301986: creatureSprites_479
+    21301988: creatureSprites_480
+    21301990: creatureSprites_481
+    21301992: creatureSprites_482
+    21301994: creatureSprites_483
+    21301996: creatureSprites_484
+    21301998: creatureSprites_485
+    21302000: creatureSprites_486
+    21302002: creatureSprites_487
+    21302004: creatureSprites_488
+    21302006: creatureSprites_489
+    21302008: creatureSprites_490
+    21302010: creatureSprites_491
+    21302012: creatureSprites_492
+    21302014: creatureSprites_493
+    21302016: creatureSprites_494
+    21302018: creatureSprites_495
+    21302020: creatureSprites_496
+    21302022: creatureSprites_497
+    21302024: creatureSprites_498
+    21302026: creatureSprites_499
+    21302028: creatureSprites_500
+    21302030: creatureSprites_501
+    21302032: creatureSprites_502
+    21302034: creatureSprites_503
+    21302036: creatureSprites_504
+    21302038: creatureSprites_505
+    21302040: creatureSprites_506
+    21302042: creatureSprites_507
+    21302044: creatureSprites_508
+    21302046: creatureSprites_509
+    21302048: creatureSprites_510
+    21302050: creatureSprites_511
+    21302052: creatureSprites_512
+    21302054: creatureSprites_513
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -563,7 +1077,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: diamond-pearl-shiny-frame2_0
+    - name: creatureSprites_0
       rect:
         serializedVersion: 2
         x: 18
@@ -571,9 +1085,9 @@ TextureImporter:
         width: 38
         height: 39
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_1
+    - name: creatureSprites_1
       rect:
         serializedVersion: 2
         x: 95
@@ -583,7 +1097,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_2
+    - name: creatureSprites_2
       rect:
         serializedVersion: 2
         x: 160
@@ -593,7 +1107,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_3
+    - name: creatureSprites_3
       rect:
         serializedVersion: 2
         x: 262
@@ -603,7 +1117,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_4
+    - name: creatureSprites_4
       rect:
         serializedVersion: 2
         x: 326
@@ -613,7 +1127,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_5
+    - name: creatureSprites_5
       rect:
         serializedVersion: 2
         x: 403
@@ -623,7 +1137,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_6
+    - name: creatureSprites_6
       rect:
         serializedVersion: 2
         x: 500
@@ -633,7 +1147,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_7
+    - name: creatureSprites_7
       rect:
         serializedVersion: 2
         x: 583
@@ -643,7 +1157,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_8
+    - name: creatureSprites_8
       rect:
         serializedVersion: 2
         x: 641
@@ -653,7 +1167,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_9
+    - name: creatureSprites_9
       rect:
         serializedVersion: 2
         x: 748
@@ -663,7 +1177,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_10
+    - name: creatureSprites_10
       rect:
         serializedVersion: 2
         x: 826
@@ -673,7 +1187,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_11
+    - name: creatureSprites_11
       rect:
         serializedVersion: 2
         x: 907
@@ -683,7 +1197,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_12
+    - name: creatureSprites_12
       rect:
         serializedVersion: 2
         x: 993
@@ -693,7 +1207,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_13
+    - name: creatureSprites_13
       rect:
         serializedVersion: 2
         x: 1073
@@ -703,7 +1217,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_14
+    - name: creatureSprites_14
       rect:
         serializedVersion: 2
         x: 1141
@@ -713,7 +1227,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_15
+    - name: creatureSprites_15
       rect:
         serializedVersion: 2
         x: 1225
@@ -723,7 +1237,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_16
+    - name: creatureSprites_16
       rect:
         serializedVersion: 2
         x: 1296
@@ -733,7 +1247,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_17
+    - name: creatureSprites_17
       rect:
         serializedVersion: 2
         x: 1373
@@ -743,7 +1257,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_18
+    - name: creatureSprites_18
       rect:
         serializedVersion: 2
         x: 1460
@@ -753,7 +1267,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_19
+    - name: creatureSprites_19
       rect:
         serializedVersion: 2
         x: 1539
@@ -763,7 +1277,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_20
+    - name: creatureSprites_20
       rect:
         serializedVersion: 2
         x: 1622
@@ -773,7 +1287,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_21
+    - name: creatureSprites_21
       rect:
         serializedVersion: 2
         x: 1682
@@ -783,7 +1297,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_22
+    - name: creatureSprites_22
       rect:
         serializedVersion: 2
         x: 1768
@@ -793,7 +1307,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_23
+    - name: creatureSprites_23
       rect:
         serializedVersion: 2
         x: 1842
@@ -803,7 +1317,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_24
+    - name: creatureSprites_24
       rect:
         serializedVersion: 2
         x: 1937
@@ -813,7 +1327,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_25
+    - name: creatureSprites_25
       rect:
         serializedVersion: 2
         x: 2008
@@ -823,7 +1337,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_26
+    - name: creatureSprites_26
       rect:
         serializedVersion: 2
         x: 2102
@@ -833,7 +1347,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_27
+    - name: creatureSprites_27
       rect:
         serializedVersion: 2
         x: 2170
@@ -843,7 +1357,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_28
+    - name: creatureSprites_28
       rect:
         serializedVersion: 2
         x: 21
@@ -853,7 +1367,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_29
+    - name: creatureSprites_29
       rect:
         serializedVersion: 2
         x: 101
@@ -863,7 +1377,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_30
+    - name: creatureSprites_30
       rect:
         serializedVersion: 2
         x: 168
@@ -873,7 +1387,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_31
+    - name: creatureSprites_31
       rect:
         serializedVersion: 2
         x: 268
@@ -881,9 +1395,9 @@ TextureImporter:
         width: 35
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_32
+    - name: creatureSprites_32
       rect:
         serializedVersion: 2
         x: 335
@@ -893,7 +1407,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_33
+    - name: creatureSprites_33
       rect:
         serializedVersion: 2
         x: 403
@@ -903,7 +1417,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_34
+    - name: creatureSprites_34
       rect:
         serializedVersion: 2
         x: 497
@@ -913,7 +1427,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_35
+    - name: creatureSprites_35
       rect:
         serializedVersion: 2
         x: 575
@@ -923,7 +1437,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_36
+    - name: creatureSprites_36
       rect:
         serializedVersion: 2
         x: 656
@@ -933,7 +1447,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_37
+    - name: creatureSprites_37
       rect:
         serializedVersion: 2
         x: 720
@@ -943,7 +1457,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_38
+    - name: creatureSprites_38
       rect:
         serializedVersion: 2
         x: 821
@@ -953,7 +1467,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_39
+    - name: creatureSprites_39
       rect:
         serializedVersion: 2
         x: 895
@@ -963,7 +1477,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_40
+    - name: creatureSprites_40
       rect:
         serializedVersion: 2
         x: 973
@@ -973,7 +1487,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_41
+    - name: creatureSprites_41
       rect:
         serializedVersion: 2
         x: 1062
@@ -983,7 +1497,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_42
+    - name: creatureSprites_42
       rect:
         serializedVersion: 2
         x: 1145
@@ -993,7 +1507,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_43
+    - name: creatureSprites_43
       rect:
         serializedVersion: 2
         x: 1215
@@ -1003,7 +1517,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_44
+    - name: creatureSprites_44
       rect:
         serializedVersion: 2
         x: 1303
@@ -1013,7 +1527,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_45
+    - name: creatureSprites_45
       rect:
         serializedVersion: 2
         x: 1376
@@ -1023,7 +1537,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_46
+    - name: creatureSprites_46
       rect:
         serializedVersion: 2
         x: 1440
@@ -1033,7 +1547,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_47
+    - name: creatureSprites_47
       rect:
         serializedVersion: 2
         x: 1535
@@ -1043,7 +1557,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_48
+    - name: creatureSprites_48
       rect:
         serializedVersion: 2
         x: 1616
@@ -1053,7 +1567,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_49
+    - name: creatureSprites_49
       rect:
         serializedVersion: 2
         x: 1701
@@ -1063,7 +1577,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_50
+    - name: creatureSprites_50
       rect:
         serializedVersion: 2
         x: 1776
@@ -1073,7 +1587,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_51
+    - name: creatureSprites_51
       rect:
         serializedVersion: 2
         x: 1845
@@ -1083,7 +1597,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_52
+    - name: creatureSprites_52
       rect:
         serializedVersion: 2
         x: 1927
@@ -1093,7 +1607,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_53
+    - name: creatureSprites_53
       rect:
         serializedVersion: 2
         x: 2016
@@ -1103,7 +1617,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_54
+    - name: creatureSprites_54
       rect:
         serializedVersion: 2
         x: 2083
@@ -1113,7 +1627,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_55
+    - name: creatureSprites_55
       rect:
         serializedVersion: 2
         x: 2172
@@ -1123,7 +1637,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_56
+    - name: creatureSprites_56
       rect:
         serializedVersion: 2
         x: 8
@@ -1133,7 +1647,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_57
+    - name: creatureSprites_57
       rect:
         serializedVersion: 2
         x: 97
@@ -1143,7 +1657,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_58
+    - name: creatureSprites_58
       rect:
         serializedVersion: 2
         x: 160
@@ -1153,7 +1667,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_59
+    - name: creatureSprites_59
       rect:
         serializedVersion: 2
         x: 255
@@ -1163,7 +1677,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_60
+    - name: creatureSprites_60
       rect:
         serializedVersion: 2
         x: 334
@@ -1173,7 +1687,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_61
+    - name: creatureSprites_61
       rect:
         serializedVersion: 2
         x: 400
@@ -1183,7 +1697,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_62
+    - name: creatureSprites_62
       rect:
         serializedVersion: 2
         x: 494
@@ -1193,7 +1707,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_63
+    - name: creatureSprites_63
       rect:
         serializedVersion: 2
         x: 561
@@ -1203,7 +1717,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_64
+    - name: creatureSprites_64
       rect:
         serializedVersion: 2
         x: 648
@@ -1213,7 +1727,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_65
+    - name: creatureSprites_65
       rect:
         serializedVersion: 2
         x: 738
@@ -1223,7 +1737,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_66
+    - name: creatureSprites_66
       rect:
         serializedVersion: 2
         x: 812
@@ -1233,7 +1747,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_67
+    - name: creatureSprites_67
       rect:
         serializedVersion: 2
         x: 894
@@ -1243,7 +1757,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_68
+    - name: creatureSprites_68
       rect:
         serializedVersion: 2
         x: 978
@@ -1253,7 +1767,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_69
+    - name: creatureSprites_69
       rect:
         serializedVersion: 2
         x: 1048
@@ -1263,7 +1777,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_70
+    - name: creatureSprites_70
       rect:
         serializedVersion: 2
         x: 1127
@@ -1273,7 +1787,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_71
+    - name: creatureSprites_71
       rect:
         serializedVersion: 2
         x: 1201
@@ -1283,7 +1797,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_72
+    - name: creatureSprites_72
       rect:
         serializedVersion: 2
         x: 1282
@@ -1293,7 +1807,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_73
+    - name: creatureSprites_73
       rect:
         serializedVersion: 2
         x: 1371
@@ -1303,7 +1817,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_74
+    - name: creatureSprites_74
       rect:
         serializedVersion: 2
         x: 1445
@@ -1313,7 +1827,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_75
+    - name: creatureSprites_75
       rect:
         serializedVersion: 2
         x: 1536
@@ -1323,7 +1837,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_76
+    - name: creatureSprites_76
       rect:
         serializedVersion: 2
         x: 1614
@@ -1333,7 +1847,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_77
+    - name: creatureSprites_77
       rect:
         serializedVersion: 2
         x: 1692
@@ -1343,7 +1857,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_78
+    - name: creatureSprites_78
       rect:
         serializedVersion: 2
         x: 1769
@@ -1353,7 +1867,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_79
+    - name: creatureSprites_79
       rect:
         serializedVersion: 2
         x: 1845
@@ -1363,7 +1877,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_80
+    - name: creatureSprites_80
       rect:
         serializedVersion: 2
         x: 1943
@@ -1373,7 +1887,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_81
+    - name: creatureSprites_81
       rect:
         serializedVersion: 2
         x: 2010
@@ -1383,7 +1897,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_82
+    - name: creatureSprites_82
       rect:
         serializedVersion: 2
         x: 2104
@@ -1393,7 +1907,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_83
+    - name: creatureSprites_83
       rect:
         serializedVersion: 2
         x: 2166
@@ -1403,7 +1917,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_84
+    - name: creatureSprites_84
       rect:
         serializedVersion: 2
         x: 161
@@ -1413,7 +1927,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_85
+    - name: creatureSprites_85
       rect:
         serializedVersion: 2
         x: 327
@@ -1423,7 +1937,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_86
+    - name: creatureSprites_86
       rect:
         serializedVersion: 2
         x: 484
@@ -1433,7 +1947,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_87
+    - name: creatureSprites_87
       rect:
         serializedVersion: 2
         x: 1450
@@ -1443,7 +1957,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_88
+    - name: creatureSprites_88
       rect:
         serializedVersion: 2
         x: 2032
@@ -1453,7 +1967,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_89
+    - name: creatureSprites_89
       rect:
         serializedVersion: 2
         x: 2061
@@ -1463,7 +1977,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_90
+    - name: creatureSprites_90
       rect:
         serializedVersion: 2
         x: 2174
@@ -1473,7 +1987,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_91
+    - name: creatureSprites_91
       rect:
         serializedVersion: 2
         x: 4
@@ -1483,7 +1997,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_92
+    - name: creatureSprites_92
       rect:
         serializedVersion: 2
         x: 87
@@ -1493,7 +2007,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_93
+    - name: creatureSprites_93
       rect:
         serializedVersion: 2
         x: 611
@@ -1503,7 +2017,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_94
+    - name: creatureSprites_94
       rect:
         serializedVersion: 2
         x: 735
@@ -1513,7 +2027,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_95
+    - name: creatureSprites_95
       rect:
         serializedVersion: 2
         x: 800
@@ -1523,7 +2037,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_96
+    - name: creatureSprites_96
       rect:
         serializedVersion: 2
         x: 968
@@ -1531,9 +2045,9 @@ TextureImporter:
         width: 58
         height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_97
+    - name: creatureSprites_97
       rect:
         serializedVersion: 2
         x: 1618
@@ -1543,7 +2057,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_98
+    - name: creatureSprites_98
       rect:
         serializedVersion: 2
         x: 1786
@@ -1553,7 +2067,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_99
+    - name: creatureSprites_99
       rect:
         serializedVersion: 2
         x: 1841
@@ -1563,7 +2077,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_100
+    - name: creatureSprites_100
       rect:
         serializedVersion: 2
         x: 1937
@@ -1573,7 +2087,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_101
+    - name: creatureSprites_101
       rect:
         serializedVersion: 2
         x: 1961
@@ -1583,7 +2097,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_102
+    - name: creatureSprites_102
       rect:
         serializedVersion: 2
         x: 2059
@@ -1593,7 +2107,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_103
+    - name: creatureSprites_103
       rect:
         serializedVersion: 2
         x: 574
@@ -1603,7 +2117,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_104
+    - name: creatureSprites_104
       rect:
         serializedVersion: 2
         x: 645
@@ -1613,7 +2127,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_105
+    - name: creatureSprites_105
       rect:
         serializedVersion: 2
         x: 895
@@ -1623,7 +2137,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_106
+    - name: creatureSprites_106
       rect:
         serializedVersion: 2
         x: 1054
@@ -1633,7 +2147,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_107
+    - name: creatureSprites_107
       rect:
         serializedVersion: 2
         x: 1123
@@ -1643,7 +2157,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_108
+    - name: creatureSprites_108
       rect:
         serializedVersion: 2
         x: 1297
@@ -1653,7 +2167,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_109
+    - name: creatureSprites_109
       rect:
         serializedVersion: 2
         x: 1683
@@ -1663,7 +2177,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_110
+    - name: creatureSprites_110
       rect:
         serializedVersion: 2
         x: 1931
@@ -1673,7 +2187,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_111
+    - name: creatureSprites_111
       rect:
         serializedVersion: 2
         x: 2006
@@ -1683,7 +2197,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_112
+    - name: creatureSprites_112
       rect:
         serializedVersion: 2
         x: 2093
@@ -1693,7 +2207,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_113
+    - name: creatureSprites_113
       rect:
         serializedVersion: 2
         x: 243
@@ -1703,7 +2217,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_114
+    - name: creatureSprites_114
       rect:
         serializedVersion: 2
         x: 421
@@ -1713,7 +2227,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_115
+    - name: creatureSprites_115
       rect:
         serializedVersion: 2
         x: 563
@@ -1723,7 +2237,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_116
+    - name: creatureSprites_116
       rect:
         serializedVersion: 2
         x: 1225
@@ -1733,7 +2247,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_117
+    - name: creatureSprites_117
       rect:
         serializedVersion: 2
         x: 1371
@@ -1743,7 +2257,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_118
+    - name: creatureSprites_118
       rect:
         serializedVersion: 2
         x: 1536
@@ -1753,7 +2267,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_119
+    - name: creatureSprites_119
       rect:
         serializedVersion: 2
         x: 1979
@@ -1763,7 +2277,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_120
+    - name: creatureSprites_120
       rect:
         serializedVersion: 2
         x: 2069
@@ -1773,7 +2287,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_121
+    - name: creatureSprites_121
       rect:
         serializedVersion: 2
         x: 1980
@@ -1783,7 +2297,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_122
+    - name: creatureSprites_122
       rect:
         serializedVersion: 2
         x: 1987
@@ -1793,7 +2307,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_123
+    - name: creatureSprites_123
       rect:
         serializedVersion: 2
         x: 2005
@@ -1803,7 +2317,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_124
+    - name: creatureSprites_124
       rect:
         serializedVersion: 2
         x: 621
@@ -1813,7 +2327,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_125
+    - name: creatureSprites_125
       rect:
         serializedVersion: 2
         x: 1925
@@ -1823,7 +2337,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_126
+    - name: creatureSprites_126
       rect:
         serializedVersion: 2
         x: 2001
@@ -1833,7 +2347,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_127
+    - name: creatureSprites_127
       rect:
         serializedVersion: 2
         x: 2065
@@ -1843,7 +2357,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_128
+    - name: creatureSprites_128
       rect:
         serializedVersion: 2
         x: 606
@@ -1853,7 +2367,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_129
+    - name: creatureSprites_129
       rect:
         serializedVersion: 2
         x: 1939
@@ -1863,7 +2377,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_130
+    - name: creatureSprites_130
       rect:
         serializedVersion: 2
         x: 2057
@@ -1873,7 +2387,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_131
+    - name: creatureSprites_131
       rect:
         serializedVersion: 2
         x: 2069
@@ -1883,7 +2397,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_132
+    - name: creatureSprites_132
       rect:
         serializedVersion: 2
         x: 14
@@ -1893,7 +2407,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_133
+    - name: creatureSprites_133
       rect:
         serializedVersion: 2
         x: 95
@@ -1903,7 +2417,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_134
+    - name: creatureSprites_134
       rect:
         serializedVersion: 2
         x: 160
@@ -1913,7 +2427,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_135
+    - name: creatureSprites_135
       rect:
         serializedVersion: 2
         x: 260
@@ -1923,7 +2437,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_136
+    - name: creatureSprites_136
       rect:
         serializedVersion: 2
         x: 342
@@ -1933,7 +2447,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_137
+    - name: creatureSprites_137
       rect:
         serializedVersion: 2
         x: 415
@@ -1943,7 +2457,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_138
+    - name: creatureSprites_138
       rect:
         serializedVersion: 2
         x: 487
@@ -1953,7 +2467,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_139
+    - name: creatureSprites_139
       rect:
         serializedVersion: 2
         x: 582
@@ -1963,7 +2477,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_140
+    - name: creatureSprites_140
       rect:
         serializedVersion: 2
         x: 651
@@ -1973,7 +2487,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_141
+    - name: creatureSprites_141
       rect:
         serializedVersion: 2
         x: 733
@@ -1983,7 +2497,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_142
+    - name: creatureSprites_142
       rect:
         serializedVersion: 2
         x: 812
@@ -1993,7 +2507,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_143
+    - name: creatureSprites_143
       rect:
         serializedVersion: 2
         x: 891
@@ -2003,7 +2517,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_144
+    - name: creatureSprites_144
       rect:
         serializedVersion: 2
         x: 962
@@ -2013,7 +2527,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_145
+    - name: creatureSprites_145
       rect:
         serializedVersion: 2
         x: 1046
@@ -2023,7 +2537,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_146
+    - name: creatureSprites_146
       rect:
         serializedVersion: 2
         x: 1124
@@ -2033,7 +2547,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_147
+    - name: creatureSprites_147
       rect:
         serializedVersion: 2
         x: 1206
@@ -2043,7 +2557,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_148
+    - name: creatureSprites_148
       rect:
         serializedVersion: 2
         x: 1297
@@ -2053,7 +2567,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_149
+    - name: creatureSprites_149
       rect:
         serializedVersion: 2
         x: 1366
@@ -2063,7 +2577,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_150
+    - name: creatureSprites_150
       rect:
         serializedVersion: 2
         x: 1448
@@ -2073,7 +2587,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_151
+    - name: creatureSprites_151
       rect:
         serializedVersion: 2
         x: 1544
@@ -2083,7 +2597,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_152
+    - name: creatureSprites_152
       rect:
         serializedVersion: 2
         x: 1622
@@ -2093,7 +2607,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_153
+    - name: creatureSprites_153
       rect:
         serializedVersion: 2
         x: 1682
@@ -2103,7 +2617,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_154
+    - name: creatureSprites_154
       rect:
         serializedVersion: 2
         x: 1791
@@ -2113,7 +2627,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_155
+    - name: creatureSprites_155
       rect:
         serializedVersion: 2
         x: 1853
@@ -2123,7 +2637,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_156
+    - name: creatureSprites_156
       rect:
         serializedVersion: 2
         x: 1940
@@ -2133,7 +2647,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_157
+    - name: creatureSprites_157
       rect:
         serializedVersion: 2
         x: 2022
@@ -2143,7 +2657,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_158
+    - name: creatureSprites_158
       rect:
         serializedVersion: 2
         x: 2090
@@ -2153,7 +2667,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_159
+    - name: creatureSprites_159
       rect:
         serializedVersion: 2
         x: 2183
@@ -2163,7 +2677,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_160
+    - name: creatureSprites_160
       rect:
         serializedVersion: 2
         x: 18
@@ -2173,7 +2687,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_161
+    - name: creatureSprites_161
       rect:
         serializedVersion: 2
         x: 89
@@ -2183,7 +2697,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_162
+    - name: creatureSprites_162
       rect:
         serializedVersion: 2
         x: 170
@@ -2193,7 +2707,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_163
+    - name: creatureSprites_163
       rect:
         serializedVersion: 2
         x: 244
@@ -2203,7 +2717,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_164
+    - name: creatureSprites_164
       rect:
         serializedVersion: 2
         x: 328
@@ -2213,7 +2727,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_165
+    - name: creatureSprites_165
       rect:
         serializedVersion: 2
         x: 400
@@ -2223,7 +2737,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_166
+    - name: creatureSprites_166
       rect:
         serializedVersion: 2
         x: 499
@@ -2233,7 +2747,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_167
+    - name: creatureSprites_167
       rect:
         serializedVersion: 2
         x: 574
@@ -2243,7 +2757,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_168
+    - name: creatureSprites_168
       rect:
         serializedVersion: 2
         x: 655
@@ -2253,7 +2767,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_169
+    - name: creatureSprites_169
       rect:
         serializedVersion: 2
         x: 735
@@ -2263,7 +2777,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_170
+    - name: creatureSprites_170
       rect:
         serializedVersion: 2
         x: 822
@@ -2273,7 +2787,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_171
+    - name: creatureSprites_171
       rect:
         serializedVersion: 2
         x: 901
@@ -2283,7 +2797,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_172
+    - name: creatureSprites_172
       rect:
         serializedVersion: 2
         x: 973
@@ -2293,7 +2807,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_173
+    - name: creatureSprites_173
       rect:
         serializedVersion: 2
         x: 1051
@@ -2303,7 +2817,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_174
+    - name: creatureSprites_174
       rect:
         serializedVersion: 2
         x: 1136
@@ -2313,7 +2827,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_175
+    - name: creatureSprites_175
       rect:
         serializedVersion: 2
         x: 1212
@@ -2323,7 +2837,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_176
+    - name: creatureSprites_176
       rect:
         serializedVersion: 2
         x: 1289
@@ -2333,7 +2847,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_177
+    - name: creatureSprites_177
       rect:
         serializedVersion: 2
         x: 1378
@@ -2343,7 +2857,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_178
+    - name: creatureSprites_178
       rect:
         serializedVersion: 2
         x: 1455
@@ -2353,7 +2867,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_179
+    - name: creatureSprites_179
       rect:
         serializedVersion: 2
         x: 1529
@@ -2363,7 +2877,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_180
+    - name: creatureSprites_180
       rect:
         serializedVersion: 2
         x: 1624
@@ -2373,7 +2887,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_181
+    - name: creatureSprites_181
       rect:
         serializedVersion: 2
         x: 1701
@@ -2383,7 +2897,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_182
+    - name: creatureSprites_182
       rect:
         serializedVersion: 2
         x: 1777
@@ -2393,7 +2907,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_183
+    - name: creatureSprites_183
       rect:
         serializedVersion: 2
         x: 1853
@@ -2403,7 +2917,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_184
+    - name: creatureSprites_184
       rect:
         serializedVersion: 2
         x: 1944
@@ -2413,7 +2927,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_185
+    - name: creatureSprites_185
       rect:
         serializedVersion: 2
         x: 2016
@@ -2423,7 +2937,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_186
+    - name: creatureSprites_186
       rect:
         serializedVersion: 2
         x: 2101
@@ -2433,7 +2947,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_187
+    - name: creatureSprites_187
       rect:
         serializedVersion: 2
         x: 2167
@@ -2443,7 +2957,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_188
+    - name: creatureSprites_188
       rect:
         serializedVersion: 2
         x: 2
@@ -2453,7 +2967,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_189
+    - name: creatureSprites_189
       rect:
         serializedVersion: 2
         x: 93
@@ -2463,7 +2977,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_190
+    - name: creatureSprites_190
       rect:
         serializedVersion: 2
         x: 166
@@ -2473,7 +2987,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_191
+    - name: creatureSprites_191
       rect:
         serializedVersion: 2
         x: 271
@@ -2483,7 +2997,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_192
+    - name: creatureSprites_192
       rect:
         serializedVersion: 2
         x: 347
@@ -2493,7 +3007,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_193
+    - name: creatureSprites_193
       rect:
         serializedVersion: 2
         x: 426
@@ -2503,7 +3017,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_194
+    - name: creatureSprites_194
       rect:
         serializedVersion: 2
         x: 508
@@ -2513,7 +3027,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_195
+    - name: creatureSprites_195
       rect:
         serializedVersion: 2
         x: 586
@@ -2523,7 +3037,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_196
+    - name: creatureSprites_196
       rect:
         serializedVersion: 2
         x: 663
@@ -2533,7 +3047,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_197
+    - name: creatureSprites_197
       rect:
         serializedVersion: 2
         x: 738
@@ -2543,7 +3057,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_198
+    - name: creatureSprites_198
       rect:
         serializedVersion: 2
         x: 821
@@ -2553,7 +3067,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_199
+    - name: creatureSprites_199
       rect:
         serializedVersion: 2
         x: 901
@@ -2563,7 +3077,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_200
+    - name: creatureSprites_200
       rect:
         serializedVersion: 2
         x: 974
@@ -2573,7 +3087,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_201
+    - name: creatureSprites_201
       rect:
         serializedVersion: 2
         x: 1066
@@ -2583,7 +3097,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_202
+    - name: creatureSprites_202
       rect:
         serializedVersion: 2
         x: 1144
@@ -2593,7 +3107,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_203
+    - name: creatureSprites_203
       rect:
         serializedVersion: 2
         x: 1217
@@ -2603,7 +3117,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_204
+    - name: creatureSprites_204
       rect:
         serializedVersion: 2
         x: 1292
@@ -2613,7 +3127,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_205
+    - name: creatureSprites_205
       rect:
         serializedVersion: 2
         x: 1373
@@ -2623,7 +3137,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_206
+    - name: creatureSprites_206
       rect:
         serializedVersion: 2
         x: 1462
@@ -2633,7 +3147,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_207
+    - name: creatureSprites_207
       rect:
         serializedVersion: 2
         x: 1539
@@ -2643,7 +3157,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_208
+    - name: creatureSprites_208
       rect:
         serializedVersion: 2
         x: 1617
@@ -2653,7 +3167,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_209
+    - name: creatureSprites_209
       rect:
         serializedVersion: 2
         x: 1702
@@ -2663,7 +3177,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_210
+    - name: creatureSprites_210
       rect:
         serializedVersion: 2
         x: 1787
@@ -2673,7 +3187,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_211
+    - name: creatureSprites_211
       rect:
         serializedVersion: 2
         x: 1864
@@ -2683,7 +3197,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_212
+    - name: creatureSprites_212
       rect:
         serializedVersion: 2
         x: 1936
@@ -2693,7 +3207,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_213
+    - name: creatureSprites_213
       rect:
         serializedVersion: 2
         x: 2020
@@ -2703,7 +3217,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_214
+    - name: creatureSprites_214
       rect:
         serializedVersion: 2
         x: 2093
@@ -2713,7 +3227,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_215
+    - name: creatureSprites_215
       rect:
         serializedVersion: 2
         x: 2164
@@ -2723,7 +3237,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_216
+    - name: creatureSprites_216
       rect:
         serializedVersion: 2
         x: 23
@@ -2733,7 +3247,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_217
+    - name: creatureSprites_217
       rect:
         serializedVersion: 2
         x: 104
@@ -2743,7 +3257,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_218
+    - name: creatureSprites_218
       rect:
         serializedVersion: 2
         x: 176
@@ -2753,7 +3267,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_219
+    - name: creatureSprites_219
       rect:
         serializedVersion: 2
         x: 259
@@ -2763,7 +3277,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_220
+    - name: creatureSprites_220
       rect:
         serializedVersion: 2
         x: 420
@@ -2773,7 +3287,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_221
+    - name: creatureSprites_221
       rect:
         serializedVersion: 2
         x: 491
@@ -2783,7 +3297,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_222
+    - name: creatureSprites_222
       rect:
         serializedVersion: 2
         x: 582
@@ -2793,7 +3307,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_223
+    - name: creatureSprites_223
       rect:
         serializedVersion: 2
         x: 652
@@ -2803,7 +3317,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_224
+    - name: creatureSprites_224
       rect:
         serializedVersion: 2
         x: 743
@@ -2813,7 +3327,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_225
+    - name: creatureSprites_225
       rect:
         serializedVersion: 2
         x: 811
@@ -2823,7 +3337,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_226
+    - name: creatureSprites_226
       rect:
         serializedVersion: 2
         x: 882
@@ -2833,7 +3347,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_227
+    - name: creatureSprites_227
       rect:
         serializedVersion: 2
         x: 982
@@ -2843,7 +3357,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_228
+    - name: creatureSprites_228
       rect:
         serializedVersion: 2
         x: 1057
@@ -2853,7 +3367,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_229
+    - name: creatureSprites_229
       rect:
         serializedVersion: 2
         x: 1144
@@ -2863,7 +3377,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_230
+    - name: creatureSprites_230
       rect:
         serializedVersion: 2
         x: 1208
@@ -2873,7 +3387,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_231
+    - name: creatureSprites_231
       rect:
         serializedVersion: 2
         x: 1306
@@ -2883,7 +3397,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_232
+    - name: creatureSprites_232
       rect:
         serializedVersion: 2
         x: 1363
@@ -2893,7 +3407,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_233
+    - name: creatureSprites_233
       rect:
         serializedVersion: 2
         x: 1464
@@ -2903,7 +3417,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_234
+    - name: creatureSprites_234
       rect:
         serializedVersion: 2
         x: 1546
@@ -2913,7 +3427,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_235
+    - name: creatureSprites_235
       rect:
         serializedVersion: 2
         x: 1610
@@ -2923,7 +3437,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_236
+    - name: creatureSprites_236
       rect:
         serializedVersion: 2
         x: 1700
@@ -2933,7 +3447,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_237
+    - name: creatureSprites_237
       rect:
         serializedVersion: 2
         x: 1771
@@ -2943,7 +3457,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_238
+    - name: creatureSprites_238
       rect:
         serializedVersion: 2
         x: 1863
@@ -2953,7 +3467,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_239
+    - name: creatureSprites_239
       rect:
         serializedVersion: 2
         x: 1936
@@ -2963,7 +3477,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_240
+    - name: creatureSprites_240
       rect:
         serializedVersion: 2
         x: 2020
@@ -2973,7 +3487,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_241
+    - name: creatureSprites_241
       rect:
         serializedVersion: 2
         x: 2101
@@ -2983,7 +3497,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_242
+    - name: creatureSprites_242
       rect:
         serializedVersion: 2
         x: 2173
@@ -2993,7 +3507,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_243
+    - name: creatureSprites_243
       rect:
         serializedVersion: 2
         x: 20
@@ -3003,7 +3517,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_244
+    - name: creatureSprites_244
       rect:
         serializedVersion: 2
         x: 81
@@ -3013,7 +3527,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_245
+    - name: creatureSprites_245
       rect:
         serializedVersion: 2
         x: 166
@@ -3023,7 +3537,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_246
+    - name: creatureSprites_246
       rect:
         serializedVersion: 2
         x: 261
@@ -3033,7 +3547,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_247
+    - name: creatureSprites_247
       rect:
         serializedVersion: 2
         x: 323
@@ -3043,7 +3557,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_248
+    - name: creatureSprites_248
       rect:
         serializedVersion: 2
         x: 409
@@ -3053,7 +3567,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_249
+    - name: creatureSprites_249
       rect:
         serializedVersion: 2
         x: 499
@@ -3063,7 +3577,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_250
+    - name: creatureSprites_250
       rect:
         serializedVersion: 2
         x: 571
@@ -3073,7 +3587,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_251
+    - name: creatureSprites_251
       rect:
         serializedVersion: 2
         x: 659
@@ -3083,7 +3597,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_252
+    - name: creatureSprites_252
       rect:
         serializedVersion: 2
         x: 723
@@ -3093,7 +3607,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_253
+    - name: creatureSprites_253
       rect:
         serializedVersion: 2
         x: 803
@@ -3103,7 +3617,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_254
+    - name: creatureSprites_254
       rect:
         serializedVersion: 2
         x: 909
@@ -3113,7 +3627,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_255
+    - name: creatureSprites_255
       rect:
         serializedVersion: 2
         x: 985
@@ -3123,7 +3637,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_256
+    - name: creatureSprites_256
       rect:
         serializedVersion: 2
         x: 1069
@@ -3133,7 +3647,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_257
+    - name: creatureSprites_257
       rect:
         serializedVersion: 2
         x: 1135
@@ -3143,7 +3657,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_258
+    - name: creatureSprites_258
       rect:
         serializedVersion: 2
         x: 1223
@@ -3153,7 +3667,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_259
+    - name: creatureSprites_259
       rect:
         serializedVersion: 2
         x: 1293
@@ -3163,7 +3677,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_260
+    - name: creatureSprites_260
       rect:
         serializedVersion: 2
         x: 1375
@@ -3173,7 +3687,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_261
+    - name: creatureSprites_261
       rect:
         serializedVersion: 2
         x: 1444
@@ -3181,9 +3695,9 @@ TextureImporter:
         width: 75
         height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_262
+    - name: creatureSprites_262
       rect:
         serializedVersion: 2
         x: 1522
@@ -3193,7 +3707,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_263
+    - name: creatureSprites_263
       rect:
         serializedVersion: 2
         x: 1601
@@ -3203,7 +3717,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_264
+    - name: creatureSprites_264
       rect:
         serializedVersion: 2
         x: 1705
@@ -3213,7 +3727,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_265
+    - name: creatureSprites_265
       rect:
         serializedVersion: 2
         x: 1780
@@ -3223,7 +3737,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_266
+    - name: creatureSprites_266
       rect:
         serializedVersion: 2
         x: 1845
@@ -3233,7 +3747,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_267
+    - name: creatureSprites_267
       rect:
         serializedVersion: 2
         x: 1920
@@ -3243,7 +3757,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_268
+    - name: creatureSprites_268
       rect:
         serializedVersion: 2
         x: 2001
@@ -3253,7 +3767,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_269
+    - name: creatureSprites_269
       rect:
         serializedVersion: 2
         x: 2109
@@ -3263,7 +3777,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_270
+    - name: creatureSprites_270
       rect:
         serializedVersion: 2
         x: 2175
@@ -3273,7 +3787,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_271
+    - name: creatureSprites_271
       rect:
         serializedVersion: 2
         x: 5
@@ -3283,7 +3797,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_272
+    - name: creatureSprites_272
       rect:
         serializedVersion: 2
         x: 81
@@ -3293,7 +3807,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_273
+    - name: creatureSprites_273
       rect:
         serializedVersion: 2
         x: 185
@@ -3303,7 +3817,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_274
+    - name: creatureSprites_274
       rect:
         serializedVersion: 2
         x: 256
@@ -3313,7 +3827,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_275
+    - name: creatureSprites_275
       rect:
         serializedVersion: 2
         x: 326
@@ -3323,7 +3837,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_276
+    - name: creatureSprites_276
       rect:
         serializedVersion: 2
         x: 422
@@ -3333,7 +3847,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_277
+    - name: creatureSprites_277
       rect:
         serializedVersion: 2
         x: 495
@@ -3343,7 +3857,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_278
+    - name: creatureSprites_278
       rect:
         serializedVersion: 2
         x: 560
@@ -3353,7 +3867,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_279
+    - name: creatureSprites_279
       rect:
         serializedVersion: 2
         x: 658
@@ -3363,7 +3877,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_280
+    - name: creatureSprites_280
       rect:
         serializedVersion: 2
         x: 728
@@ -3373,7 +3887,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_281
+    - name: creatureSprites_281
       rect:
         serializedVersion: 2
         x: 815
@@ -3383,7 +3897,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_282
+    - name: creatureSprites_282
       rect:
         serializedVersion: 2
         x: 882
@@ -3393,7 +3907,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_283
+    - name: creatureSprites_283
       rect:
         serializedVersion: 2
         x: 987
@@ -3401,9 +3915,9 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_284
+    - name: creatureSprites_284
       rect:
         serializedVersion: 2
         x: 1056
@@ -3413,7 +3927,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_285
+    - name: creatureSprites_285
       rect:
         serializedVersion: 2
         x: 1129
@@ -3423,7 +3937,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_286
+    - name: creatureSprites_286
       rect:
         serializedVersion: 2
         x: 1216
@@ -3433,7 +3947,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_287
+    - name: creatureSprites_287
       rect:
         serializedVersion: 2
         x: 1294
@@ -3443,7 +3957,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_288
+    - name: creatureSprites_288
       rect:
         serializedVersion: 2
         x: 1381
@@ -3453,7 +3967,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_289
+    - name: creatureSprites_289
       rect:
         serializedVersion: 2
         x: 1461
@@ -3461,9 +3975,9 @@ TextureImporter:
         width: 44
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_290
+    - name: creatureSprites_290
       rect:
         serializedVersion: 2
         x: 1531
@@ -3473,7 +3987,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_291
+    - name: creatureSprites_291
       rect:
         serializedVersion: 2
         x: 1626
@@ -3483,7 +3997,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_292
+    - name: creatureSprites_292
       rect:
         serializedVersion: 2
         x: 1698
@@ -3493,7 +4007,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_293
+    - name: creatureSprites_293
       rect:
         serializedVersion: 2
         x: 1760
@@ -3503,7 +4017,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_294
+    - name: creatureSprites_294
       rect:
         serializedVersion: 2
         x: 1855
@@ -3513,7 +4027,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_295
+    - name: creatureSprites_295
       rect:
         serializedVersion: 2
         x: 1920
@@ -3523,7 +4037,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_296
+    - name: creatureSprites_296
       rect:
         serializedVersion: 2
         x: 2007
@@ -3533,7 +4047,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_297
+    - name: creatureSprites_297
       rect:
         serializedVersion: 2
         x: 2085
@@ -3543,7 +4057,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_298
+    - name: creatureSprites_298
       rect:
         serializedVersion: 2
         x: 2187
@@ -3553,7 +4067,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_299
+    - name: creatureSprites_299
       rect:
         serializedVersion: 2
         x: 24
@@ -3563,7 +4077,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_300
+    - name: creatureSprites_300
       rect:
         serializedVersion: 2
         x: 82
@@ -3573,7 +4087,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_301
+    - name: creatureSprites_301
       rect:
         serializedVersion: 2
         x: 179
@@ -3583,7 +4097,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_302
+    - name: creatureSprites_302
       rect:
         serializedVersion: 2
         x: 254
@@ -3593,7 +4107,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_303
+    - name: creatureSprites_303
       rect:
         serializedVersion: 2
         x: 341
@@ -3603,7 +4117,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_304
+    - name: creatureSprites_304
       rect:
         serializedVersion: 2
         x: 416
@@ -3613,7 +4127,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_305
+    - name: creatureSprites_305
       rect:
         serializedVersion: 2
         x: 496
@@ -3623,7 +4137,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_306
+    - name: creatureSprites_306
       rect:
         serializedVersion: 2
         x: 576
@@ -3633,7 +4147,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_307
+    - name: creatureSprites_307
       rect:
         serializedVersion: 2
         x: 641
@@ -3643,7 +4157,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_308
+    - name: creatureSprites_308
       rect:
         serializedVersion: 2
         x: 735
@@ -3653,7 +4167,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_309
+    - name: creatureSprites_309
       rect:
         serializedVersion: 2
         x: 810
@@ -3663,7 +4177,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_310
+    - name: creatureSprites_310
       rect:
         serializedVersion: 2
         x: 891
@@ -3673,7 +4187,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_311
+    - name: creatureSprites_311
       rect:
         serializedVersion: 2
         x: 982
@@ -3683,7 +4197,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_312
+    - name: creatureSprites_312
       rect:
         serializedVersion: 2
         x: 1055
@@ -3693,7 +4207,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_313
+    - name: creatureSprites_313
       rect:
         serializedVersion: 2
         x: 1130
@@ -3703,7 +4217,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_314
+    - name: creatureSprites_314
       rect:
         serializedVersion: 2
         x: 1215
@@ -3713,7 +4227,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_315
+    - name: creatureSprites_315
       rect:
         serializedVersion: 2
         x: 1283
@@ -3723,7 +4237,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_316
+    - name: creatureSprites_316
       rect:
         serializedVersion: 2
         x: 1383
@@ -3733,7 +4247,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_317
+    - name: creatureSprites_317
       rect:
         serializedVersion: 2
         x: 1454
@@ -3743,7 +4257,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_318
+    - name: creatureSprites_318
       rect:
         serializedVersion: 2
         x: 1536
@@ -3753,7 +4267,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_319
+    - name: creatureSprites_319
       rect:
         serializedVersion: 2
         x: 1609
@@ -3763,7 +4277,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_320
+    - name: creatureSprites_320
       rect:
         serializedVersion: 2
         x: 1701
@@ -3773,7 +4287,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_321
+    - name: creatureSprites_321
       rect:
         serializedVersion: 2
         x: 1771
@@ -3783,7 +4297,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_322
+    - name: creatureSprites_322
       rect:
         serializedVersion: 2
         x: 1864
@@ -3793,7 +4307,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_323
+    - name: creatureSprites_323
       rect:
         serializedVersion: 2
         x: 1934
@@ -3803,7 +4317,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_324
+    - name: creatureSprites_324
       rect:
         serializedVersion: 2
         x: 2003
@@ -3813,7 +4327,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_325
+    - name: creatureSprites_325
       rect:
         serializedVersion: 2
         x: 2101
@@ -3823,7 +4337,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_326
+    - name: creatureSprites_326
       rect:
         serializedVersion: 2
         x: 2176
@@ -3833,7 +4347,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_327
+    - name: creatureSprites_327
       rect:
         serializedVersion: 2
         x: 15
@@ -3843,7 +4357,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_328
+    - name: creatureSprites_328
       rect:
         serializedVersion: 2
         x: 96
@@ -3853,7 +4367,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_329
+    - name: creatureSprites_329
       rect:
         serializedVersion: 2
         x: 190
@@ -3863,7 +4377,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_330
+    - name: creatureSprites_330
       rect:
         serializedVersion: 2
         x: 267
@@ -3873,7 +4387,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_331
+    - name: creatureSprites_331
       rect:
         serializedVersion: 2
         x: 339
@@ -3883,7 +4397,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_332
+    - name: creatureSprites_332
       rect:
         serializedVersion: 2
         x: 424
@@ -3893,7 +4407,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_333
+    - name: creatureSprites_333
       rect:
         serializedVersion: 2
         x: 493
@@ -3903,7 +4417,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_334
+    - name: creatureSprites_334
       rect:
         serializedVersion: 2
         x: 579
@@ -3913,7 +4427,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_335
+    - name: creatureSprites_335
       rect:
         serializedVersion: 2
         x: 658
@@ -3923,7 +4437,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_336
+    - name: creatureSprites_336
       rect:
         serializedVersion: 2
         x: 734
@@ -3933,7 +4447,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_337
+    - name: creatureSprites_337
       rect:
         serializedVersion: 2
         x: 808
@@ -3943,7 +4457,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_338
+    - name: creatureSprites_338
       rect:
         serializedVersion: 2
         x: 888
@@ -3953,7 +4467,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_339
+    - name: creatureSprites_339
       rect:
         serializedVersion: 2
         x: 960
@@ -3963,7 +4477,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_340
+    - name: creatureSprites_340
       rect:
         serializedVersion: 2
         x: 1061
@@ -3973,7 +4487,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_341
+    - name: creatureSprites_341
       rect:
         serializedVersion: 2
         x: 1125
@@ -3983,7 +4497,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_342
+    - name: creatureSprites_342
       rect:
         serializedVersion: 2
         x: 1206
@@ -3993,7 +4507,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_343
+    - name: creatureSprites_343
       rect:
         serializedVersion: 2
         x: 1305
@@ -4003,7 +4517,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_344
+    - name: creatureSprites_344
       rect:
         serializedVersion: 2
         x: 1372
@@ -4013,7 +4527,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_345
+    - name: creatureSprites_345
       rect:
         serializedVersion: 2
         x: 1450
@@ -4023,7 +4537,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_346
+    - name: creatureSprites_346
       rect:
         serializedVersion: 2
         x: 1535
@@ -4033,7 +4547,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_347
+    - name: creatureSprites_347
       rect:
         serializedVersion: 2
         x: 1610
@@ -4043,7 +4557,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_348
+    - name: creatureSprites_348
       rect:
         serializedVersion: 2
         x: 1685
@@ -4053,7 +4567,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_349
+    - name: creatureSprites_349
       rect:
         serializedVersion: 2
         x: 1775
@@ -4063,7 +4577,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_350
+    - name: creatureSprites_350
       rect:
         serializedVersion: 2
         x: 1851
@@ -4073,7 +4587,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_351
+    - name: creatureSprites_351
       rect:
         serializedVersion: 2
         x: 2002
@@ -4083,7 +4597,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_352
+    - name: creatureSprites_352
       rect:
         serializedVersion: 2
         x: 2103
@@ -4093,7 +4607,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_353
+    - name: creatureSprites_353
       rect:
         serializedVersion: 2
         x: 2161
@@ -4103,7 +4617,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_354
+    - name: creatureSprites_354
       rect:
         serializedVersion: 2
         x: 1258
@@ -4113,7 +4627,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_355
+    - name: creatureSprites_355
       rect:
         serializedVersion: 2
         x: 1937
@@ -4123,7 +4637,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_356
+    - name: creatureSprites_356
       rect:
         serializedVersion: 2
         x: 25
@@ -4133,7 +4647,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_357
+    - name: creatureSprites_357
       rect:
         serializedVersion: 2
         x: 94
@@ -4143,7 +4657,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_358
+    - name: creatureSprites_358
       rect:
         serializedVersion: 2
         x: 178
@@ -4153,7 +4667,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_359
+    - name: creatureSprites_359
       rect:
         serializedVersion: 2
         x: 247
@@ -4163,7 +4677,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_360
+    - name: creatureSprites_360
       rect:
         serializedVersion: 2
         x: 332
@@ -4173,7 +4687,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_361
+    - name: creatureSprites_361
       rect:
         serializedVersion: 2
         x: 404
@@ -4183,7 +4697,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_362
+    - name: creatureSprites_362
       rect:
         serializedVersion: 2
         x: 503
@@ -4193,7 +4707,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_363
+    - name: creatureSprites_363
       rect:
         serializedVersion: 2
         x: 574
@@ -4203,7 +4717,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_364
+    - name: creatureSprites_364
       rect:
         serializedVersion: 2
         x: 620
@@ -4213,7 +4727,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_365
+    - name: creatureSprites_365
       rect:
         serializedVersion: 2
         x: 681
@@ -4223,7 +4737,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_366
+    - name: creatureSprites_366
       rect:
         serializedVersion: 2
         x: 752
@@ -4233,7 +4747,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_367
+    - name: creatureSprites_367
       rect:
         serializedVersion: 2
         x: 814
@@ -4243,7 +4757,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_368
+    - name: creatureSprites_368
       rect:
         serializedVersion: 2
         x: 880
@@ -4253,7 +4767,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_369
+    - name: creatureSprites_369
       rect:
         serializedVersion: 2
         x: 981
@@ -4263,7 +4777,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_370
+    - name: creatureSprites_370
       rect:
         serializedVersion: 2
         x: 1040
@@ -4273,7 +4787,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_371
+    - name: creatureSprites_371
       rect:
         serializedVersion: 2
         x: 1149
@@ -4283,7 +4797,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_372
+    - name: creatureSprites_372
       rect:
         serializedVersion: 2
         x: 1221
@@ -4293,7 +4807,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_373
+    - name: creatureSprites_373
       rect:
         serializedVersion: 2
         x: 1298
@@ -4303,7 +4817,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_374
+    - name: creatureSprites_374
       rect:
         serializedVersion: 2
         x: 1378
@@ -4313,7 +4827,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_375
+    - name: creatureSprites_375
       rect:
         serializedVersion: 2
         x: 1452
@@ -4323,7 +4837,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_376
+    - name: creatureSprites_376
       rect:
         serializedVersion: 2
         x: 1524
@@ -4333,7 +4847,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_377
+    - name: creatureSprites_377
       rect:
         serializedVersion: 2
         x: 1602
@@ -4343,7 +4857,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_378
+    - name: creatureSprites_378
       rect:
         serializedVersion: 2
         x: 1683
@@ -4353,7 +4867,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_379
+    - name: creatureSprites_379
       rect:
         serializedVersion: 2
         x: 1771
@@ -4363,7 +4877,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_380
+    - name: creatureSprites_380
       rect:
         serializedVersion: 2
         x: 1865
@@ -4373,7 +4887,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_381
+    - name: creatureSprites_381
       rect:
         serializedVersion: 2
         x: 1945
@@ -4383,7 +4897,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_382
+    - name: creatureSprites_382
       rect:
         serializedVersion: 2
         x: 2013
@@ -4393,7 +4907,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_383
+    - name: creatureSprites_383
       rect:
         serializedVersion: 2
         x: 2100
@@ -4403,7 +4917,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_384
+    - name: creatureSprites_384
       rect:
         serializedVersion: 2
         x: 2169
@@ -4413,7 +4927,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_385
+    - name: creatureSprites_385
       rect:
         serializedVersion: 2
         x: 3
@@ -4423,7 +4937,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_386
+    - name: creatureSprites_386
       rect:
         serializedVersion: 2
         x: 101
@@ -4433,7 +4947,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_387
+    - name: creatureSprites_387
       rect:
         serializedVersion: 2
         x: 171
@@ -4443,7 +4957,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_388
+    - name: creatureSprites_388
       rect:
         serializedVersion: 2
         x: 243
@@ -4453,7 +4967,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_389
+    - name: creatureSprites_389
       rect:
         serializedVersion: 2
         x: 335
@@ -4463,7 +4977,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_390
+    - name: creatureSprites_390
       rect:
         serializedVersion: 2
         x: 428
@@ -4473,7 +4987,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_391
+    - name: creatureSprites_391
       rect:
         serializedVersion: 2
         x: 509
@@ -4483,7 +4997,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_392
+    - name: creatureSprites_392
       rect:
         serializedVersion: 2
         x: 578
@@ -4493,7 +5007,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_393
+    - name: creatureSprites_393
       rect:
         serializedVersion: 2
         x: 643
@@ -4503,7 +5017,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_394
+    - name: creatureSprites_394
       rect:
         serializedVersion: 2
         x: 753
@@ -4513,7 +5027,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_395
+    - name: creatureSprites_395
       rect:
         serializedVersion: 2
         x: 804
@@ -4523,7 +5037,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_396
+    - name: creatureSprites_396
       rect:
         serializedVersion: 2
         x: 881
@@ -4533,7 +5047,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_397
+    - name: creatureSprites_397
       rect:
         serializedVersion: 2
         x: 970
@@ -4543,7 +5057,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_398
+    - name: creatureSprites_398
       rect:
         serializedVersion: 2
         x: 1044
@@ -4553,7 +5067,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_399
+    - name: creatureSprites_399
       rect:
         serializedVersion: 2
         x: 1120
@@ -4563,7 +5077,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_400
+    - name: creatureSprites_400
       rect:
         serializedVersion: 2
         x: 1202
@@ -4573,7 +5087,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_401
+    - name: creatureSprites_401
       rect:
         serializedVersion: 2
         x: 1283
@@ -4583,7 +5097,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_402
+    - name: creatureSprites_402
       rect:
         serializedVersion: 2
         x: 1361
@@ -4593,7 +5107,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_403
+    - name: creatureSprites_403
       rect:
         serializedVersion: 2
         x: 1445
@@ -4603,7 +5117,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_404
+    - name: creatureSprites_404
       rect:
         serializedVersion: 2
         x: 1521
@@ -4613,7 +5127,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_405
+    - name: creatureSprites_405
       rect:
         serializedVersion: 2
         x: 1614
@@ -4623,7 +5137,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_406
+    - name: creatureSprites_406
       rect:
         serializedVersion: 2
         x: 1681
@@ -4633,7 +5147,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_407
+    - name: creatureSprites_407
       rect:
         serializedVersion: 2
         x: 1781
@@ -4643,7 +5157,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_408
+    - name: creatureSprites_408
       rect:
         serializedVersion: 2
         x: 1852
@@ -4653,7 +5167,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_409
+    - name: creatureSprites_409
       rect:
         serializedVersion: 2
         x: 1922
@@ -4663,7 +5177,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_410
+    - name: creatureSprites_410
       rect:
         serializedVersion: 2
         x: 2019
@@ -4673,7 +5187,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_411
+    - name: creatureSprites_411
       rect:
         serializedVersion: 2
         x: 2088
@@ -4683,7 +5197,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_412
+    - name: creatureSprites_412
       rect:
         serializedVersion: 2
         x: 2168
@@ -4693,7 +5207,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_413
+    - name: creatureSprites_413
       rect:
         serializedVersion: 2
         x: 27
@@ -4703,7 +5217,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_414
+    - name: creatureSprites_414
       rect:
         serializedVersion: 2
         x: 88
@@ -4713,7 +5227,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_415
+    - name: creatureSprites_415
       rect:
         serializedVersion: 2
         x: 161
@@ -4723,7 +5237,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_416
+    - name: creatureSprites_416
       rect:
         serializedVersion: 2
         x: 248
@@ -4733,7 +5247,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_417
+    - name: creatureSprites_417
       rect:
         serializedVersion: 2
         x: 341
@@ -4743,7 +5257,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_418
+    - name: creatureSprites_418
       rect:
         serializedVersion: 2
         x: 413
@@ -4753,7 +5267,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_419
+    - name: creatureSprites_419
       rect:
         serializedVersion: 2
         x: 501
@@ -4763,7 +5277,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_420
+    - name: creatureSprites_420
       rect:
         serializedVersion: 2
         x: 568
@@ -4773,7 +5287,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_421
+    - name: creatureSprites_421
       rect:
         serializedVersion: 2
         x: 659
@@ -4783,7 +5297,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_422
+    - name: creatureSprites_422
       rect:
         serializedVersion: 2
         x: 738
@@ -4793,7 +5307,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_423
+    - name: creatureSprites_423
       rect:
         serializedVersion: 2
         x: 815
@@ -4803,7 +5317,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_424
+    - name: creatureSprites_424
       rect:
         serializedVersion: 2
         x: 893
@@ -4813,7 +5327,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_425
+    - name: creatureSprites_425
       rect:
         serializedVersion: 2
         x: 965
@@ -4823,7 +5337,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_426
+    - name: creatureSprites_426
       rect:
         serializedVersion: 2
         x: 1067
@@ -4833,7 +5347,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_427
+    - name: creatureSprites_427
       rect:
         serializedVersion: 2
         x: 1135
@@ -4843,7 +5357,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_428
+    - name: creatureSprites_428
       rect:
         serializedVersion: 2
         x: 1220
@@ -4853,7 +5367,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_429
+    - name: creatureSprites_429
       rect:
         serializedVersion: 2
         x: 1292
@@ -4863,7 +5377,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_430
+    - name: creatureSprites_430
       rect:
         serializedVersion: 2
         x: 1380
@@ -4873,7 +5387,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_431
+    - name: creatureSprites_431
       rect:
         serializedVersion: 2
         x: 1446
@@ -4883,7 +5397,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_432
+    - name: creatureSprites_432
       rect:
         serializedVersion: 2
         x: 1548
@@ -4893,7 +5407,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_433
+    - name: creatureSprites_433
       rect:
         serializedVersion: 2
         x: 1619
@@ -4903,7 +5417,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_434
+    - name: creatureSprites_434
       rect:
         serializedVersion: 2
         x: 1687
@@ -4913,7 +5427,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_435
+    - name: creatureSprites_435
       rect:
         serializedVersion: 2
         x: 1770
@@ -4923,7 +5437,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_436
+    - name: creatureSprites_436
       rect:
         serializedVersion: 2
         x: 1855
@@ -4933,7 +5447,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_437
+    - name: creatureSprites_437
       rect:
         serializedVersion: 2
         x: 1945
@@ -4943,7 +5457,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_438
+    - name: creatureSprites_438
       rect:
         serializedVersion: 2
         x: 2046
@@ -4953,7 +5467,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_439
+    - name: creatureSprites_439
       rect:
         serializedVersion: 2
         x: 2092
@@ -4963,7 +5477,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_440
+    - name: creatureSprites_440
       rect:
         serializedVersion: 2
         x: 2187
@@ -4973,7 +5487,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_441
+    - name: creatureSprites_441
       rect:
         serializedVersion: 2
         x: 20
@@ -4983,7 +5497,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_442
+    - name: creatureSprites_442
       rect:
         serializedVersion: 2
         x: 104
@@ -4993,7 +5507,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_443
+    - name: creatureSprites_443
       rect:
         serializedVersion: 2
         x: 176
@@ -5003,7 +5517,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_444
+    - name: creatureSprites_444
       rect:
         serializedVersion: 2
         x: 240
@@ -5013,7 +5527,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_445
+    - name: creatureSprites_445
       rect:
         serializedVersion: 2
         x: 337
@@ -5023,7 +5537,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_446
+    - name: creatureSprites_446
       rect:
         serializedVersion: 2
         x: 407
@@ -5033,7 +5547,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_447
+    - name: creatureSprites_447
       rect:
         serializedVersion: 2
         x: 497
@@ -5043,7 +5557,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_448
+    - name: creatureSprites_448
       rect:
         serializedVersion: 2
         x: 579
@@ -5053,7 +5567,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_449
+    - name: creatureSprites_449
       rect:
         serializedVersion: 2
         x: 661
@@ -5063,7 +5577,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_450
+    - name: creatureSprites_450
       rect:
         serializedVersion: 2
         x: 733
@@ -5073,7 +5587,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_451
+    - name: creatureSprites_451
       rect:
         serializedVersion: 2
         x: 815
@@ -5083,7 +5597,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_452
+    - name: creatureSprites_452
       rect:
         serializedVersion: 2
         x: 885
@@ -5093,7 +5607,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_453
+    - name: creatureSprites_453
       rect:
         serializedVersion: 2
         x: 983
@@ -5103,7 +5617,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_454
+    - name: creatureSprites_454
       rect:
         serializedVersion: 2
         x: 1054
@@ -5113,7 +5627,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_455
+    - name: creatureSprites_455
       rect:
         serializedVersion: 2
         x: 1123
@@ -5123,7 +5637,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_456
+    - name: creatureSprites_456
       rect:
         serializedVersion: 2
         x: 1225
@@ -5133,7 +5647,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_457
+    - name: creatureSprites_457
       rect:
         serializedVersion: 2
         x: 1280
@@ -5143,7 +5657,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_458
+    - name: creatureSprites_458
       rect:
         serializedVersion: 2
         x: 1388
@@ -5153,7 +5667,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_459
+    - name: creatureSprites_459
       rect:
         serializedVersion: 2
         x: 1464
@@ -5163,7 +5677,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_460
+    - name: creatureSprites_460
       rect:
         serializedVersion: 2
         x: 1546
@@ -5173,7 +5687,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_461
+    - name: creatureSprites_461
       rect:
         serializedVersion: 2
         x: 1621
@@ -5183,7 +5697,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_462
+    - name: creatureSprites_462
       rect:
         serializedVersion: 2
         x: 1688
@@ -5193,7 +5707,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_463
+    - name: creatureSprites_463
       rect:
         serializedVersion: 2
         x: 1778
@@ -5203,7 +5717,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_464
+    - name: creatureSprites_464
       rect:
         serializedVersion: 2
         x: 1851
@@ -5213,7 +5727,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_465
+    - name: creatureSprites_465
       rect:
         serializedVersion: 2
         x: 1925
@@ -5223,7 +5737,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_466
+    - name: creatureSprites_466
       rect:
         serializedVersion: 2
         x: 2020
@@ -5233,7 +5747,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_467
+    - name: creatureSprites_467
       rect:
         serializedVersion: 2
         x: 2094
@@ -5243,7 +5757,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_468
+    - name: creatureSprites_468
       rect:
         serializedVersion: 2
         x: 2178
@@ -5253,7 +5767,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_469
+    - name: creatureSprites_469
       rect:
         serializedVersion: 2
         x: 10
@@ -5263,7 +5777,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_470
+    - name: creatureSprites_470
       rect:
         serializedVersion: 2
         x: 80
@@ -5273,7 +5787,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_471
+    - name: creatureSprites_471
       rect:
         serializedVersion: 2
         x: 173
@@ -5283,7 +5797,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_472
+    - name: creatureSprites_472
       rect:
         serializedVersion: 2
         x: 245
@@ -5293,7 +5807,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_473
+    - name: creatureSprites_473
       rect:
         serializedVersion: 2
         x: 335
@@ -5303,7 +5817,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_474
+    - name: creatureSprites_474
       rect:
         serializedVersion: 2
         x: 411
@@ -5313,7 +5827,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_475
+    - name: creatureSprites_475
       rect:
         serializedVersion: 2
         x: 481
@@ -5323,7 +5837,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_476
+    - name: creatureSprites_476
       rect:
         serializedVersion: 2
         x: 581
@@ -5333,7 +5847,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_477
+    - name: creatureSprites_477
       rect:
         serializedVersion: 2
         x: 652
@@ -5343,7 +5857,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_478
+    - name: creatureSprites_478
       rect:
         serializedVersion: 2
         x: 736
@@ -5353,7 +5867,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_479
+    - name: creatureSprites_479
       rect:
         serializedVersion: 2
         x: 807
@@ -5363,7 +5877,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_480
+    - name: creatureSprites_480
       rect:
         serializedVersion: 2
         x: 880
@@ -5373,7 +5887,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_481
+    - name: creatureSprites_481
       rect:
         serializedVersion: 2
         x: 970
@@ -5383,7 +5897,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_482
+    - name: creatureSprites_482
       rect:
         serializedVersion: 2
         x: 1040
@@ -5393,7 +5907,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_483
+    - name: creatureSprites_483
       rect:
         serializedVersion: 2
         x: 1121
@@ -5403,7 +5917,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_484
+    - name: creatureSprites_484
       rect:
         serializedVersion: 2
         x: 1200
@@ -5413,7 +5927,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_485
+    - name: creatureSprites_485
       rect:
         serializedVersion: 2
         x: 1280
@@ -5423,7 +5937,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_486
+    - name: creatureSprites_486
       rect:
         serializedVersion: 2
         x: 1362
@@ -5433,7 +5947,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_487
+    - name: creatureSprites_487
       rect:
         serializedVersion: 2
         x: 1441
@@ -5443,7 +5957,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_488
+    - name: creatureSprites_488
       rect:
         serializedVersion: 2
         x: 1520
@@ -5453,7 +5967,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_489
+    - name: creatureSprites_489
       rect:
         serializedVersion: 2
         x: 1600
@@ -5463,7 +5977,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_490
+    - name: creatureSprites_490
       rect:
         serializedVersion: 2
         x: 1692
@@ -5473,7 +5987,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_491
+    - name: creatureSprites_491
       rect:
         serializedVersion: 2
         x: 1761
@@ -5483,7 +5997,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_492
+    - name: creatureSprites_492
       rect:
         serializedVersion: 2
         x: 1843
@@ -5493,7 +6007,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_493
+    - name: creatureSprites_493
       rect:
         serializedVersion: 2
         x: 1920
@@ -5503,7 +6017,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_494
+    - name: creatureSprites_494
       rect:
         serializedVersion: 2
         x: 2011
@@ -5513,7 +6027,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_495
+    - name: creatureSprites_495
       rect:
         serializedVersion: 2
         x: 2098
@@ -5523,7 +6037,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_496
+    - name: creatureSprites_496
       rect:
         serializedVersion: 2
         x: 2169
@@ -5533,7 +6047,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_497
+    - name: creatureSprites_497
       rect:
         serializedVersion: 2
         x: 0
@@ -5543,7 +6057,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_498
+    - name: creatureSprites_498
       rect:
         serializedVersion: 2
         x: 99
@@ -5553,7 +6067,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_499
+    - name: creatureSprites_499
       rect:
         serializedVersion: 2
         x: 170
@@ -5563,7 +6077,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_500
+    - name: creatureSprites_500
       rect:
         serializedVersion: 2
         x: 260
@@ -5573,7 +6087,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_501
+    - name: creatureSprites_501
       rect:
         serializedVersion: 2
         x: 330
@@ -5583,7 +6097,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_502
+    - name: creatureSprites_502
       rect:
         serializedVersion: 2
         x: 409
@@ -5593,7 +6107,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_503
+    - name: creatureSprites_503
       rect:
         serializedVersion: 2
         x: 483
@@ -5603,7 +6117,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_504
+    - name: creatureSprites_504
       rect:
         serializedVersion: 2
         x: 560
@@ -5613,7 +6127,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_505
+    - name: creatureSprites_505
       rect:
         serializedVersion: 2
         x: 640
@@ -5623,7 +6137,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_506
+    - name: creatureSprites_506
       rect:
         serializedVersion: 2
         x: 721
@@ -5633,7 +6147,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_507
+    - name: creatureSprites_507
       rect:
         serializedVersion: 2
         x: 800
@@ -5643,7 +6157,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_508
+    - name: creatureSprites_508
       rect:
         serializedVersion: 2
         x: 887
@@ -5653,7 +6167,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_509
+    - name: creatureSprites_509
       rect:
         serializedVersion: 2
         x: 974
@@ -5663,7 +6177,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_510
+    - name: creatureSprites_510
       rect:
         serializedVersion: 2
         x: 1053
@@ -5673,7 +6187,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_511
+    - name: creatureSprites_511
       rect:
         serializedVersion: 2
         x: 1126
@@ -5681,9 +6195,9 @@ TextureImporter:
         width: 66
         height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_512
+    - name: creatureSprites_512
       rect:
         serializedVersion: 2
         x: 1224
@@ -5691,9 +6205,9 @@ TextureImporter:
         width: 34
         height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: diamond-pearl-shiny-frame2_513
+    - name: creatureSprites_513
       rect:
         serializedVersion: 2
         x: 1285

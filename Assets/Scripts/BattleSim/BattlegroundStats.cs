@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class BattlegroundStats : ScriptableObject 
+public class BattlegroundStats //: ScriptableObject 
 {
     public Dictionary<Tile.TileTypes, float> modifierPerTileType = new Dictionary<Tile.TileTypes, float>();
     public BattlegroundStats()

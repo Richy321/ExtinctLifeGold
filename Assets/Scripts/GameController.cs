@@ -19,14 +19,19 @@ public class GameController : MonoBehaviour
     public const string chromosomeLabelGOName = "txtChromosome";
     public const string fitnessLabelGOName = "txtFitnessLabel";
     public const string fitnessValueGOName = "txtFitnessValue";
+    public const string imageGOName = "creatureImage";
 
+    public Sprite[] creatureSprites;
 	// Use this for initialization
 	void Start () 
     {
         terrainGenerator.Generate();
         geneticAlgorithm.Initialise();
 	}
-	
+
+    void Awake()
+    {
+    }
 	// Update is called once per frame
 	void Update () 
     {
@@ -57,7 +62,8 @@ public class GameController : MonoBehaviour
             Creature creature = geneticAlgorithm.GetCreatureByFitnessIndex(index);
 
             //Set Creature Image
-
+            GameObject imageGO = card.transform.FindChild(imageGOName).gameObject;
+            imageGO.GetComponent<Image>().sprite = creatureSprites[creature.spriteIndex];
             //Set Chromosome text
             GameObject chromosomeLabelGO = card.transform.FindChild(chromosomeLabelGOName).gameObject;
             chromosomeLabelGO.GetComponent<Text>().text = System.Convert.ToString(creature.chromosome, 2);
@@ -65,6 +71,8 @@ public class GameController : MonoBehaviour
             //Set Fitness Value
             GameObject FitnessValueGO = card.transform.FindChild(fitnessValueGOName).gameObject;
             FitnessValueGO.GetComponent<Text>().text = creature.fitnessValue.ToString();
+
+            
         }
     }
 }

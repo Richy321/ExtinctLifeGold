@@ -8,6 +8,7 @@ public class Creature : ScriptableObject
 {
     public static Dictionary<CreatureGene.GeneFlags, CreatureGene> GeneMap = new Dictionary<CreatureGene.GeneFlags, CreatureGene>();
 
+    
     static Creature()
     {
         DirectoryInfo dir = new DirectoryInfo("Assets/Scripts/CreatureGenes");
@@ -34,6 +35,8 @@ public class Creature : ScriptableObject
 
     public int chromosome = 0;
     public int fitnessValue = 0;
+
+    public int spriteIndex;
 
     public void ResetToBase()
     {

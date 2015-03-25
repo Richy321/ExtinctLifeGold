@@ -6,7 +6,7 @@ public class BattleSimulation : ScriptableObject
 {
     public static BattleStats Battle(Creature creatureA, Creature creatureB, Battleground battleground)
     {
-        BattlegroundStats bgStats = ScriptableObject.CreateInstance<BattlegroundStats>();
+        BattlegroundStats bgStats = new BattlegroundStats();//ScriptableObject.CreateInstance<BattlegroundStats>();
         bgStats.GenerateBattlegroundStats(battleground);
 
         creatureA.ApplyGenesPerBattleground(bgStats);
@@ -17,20 +17,10 @@ public class BattleSimulation : ScriptableObject
 
     static BattleStats DoBattleSimulation(Creature creatureA, Creature creatureB)
     {
-        BattleStats stats =  ScriptableObject.CreateInstance<BattleStats>();
-        
-        
-        /*
-        //Random swap to choose starting creature
-        if (Random.value > 0.5f)
-        {
-            Creature temp = creatureA;
-            creatureA = creatureB;
-            creatureB = temp;
-        }*/
+        BattleStats stats = new BattleStats();//ScriptableObject.CreateInstance<BattleStats>();
 
-        CreatureBattleStats creatureStatsA = ScriptableObject.CreateInstance<CreatureBattleStats>();
-        CreatureBattleStats creatureStatsB = ScriptableObject.CreateInstance<CreatureBattleStats>();
+        CreatureBattleStats creatureStatsA = new CreatureBattleStats();//ScriptableObject.CreateInstance<CreatureBattleStats>();
+        CreatureBattleStats creatureStatsB = new CreatureBattleStats();//ScriptableObject.CreateInstance<CreatureBattleStats>();
         stats.battleStatsPerCreature.Add(creatureA, creatureStatsA);
         stats.battleStatsPerCreature.Add(creatureB, creatureStatsB);
 

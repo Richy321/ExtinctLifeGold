@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 
 public class GeneticAlgorithm : MonoBehaviour
 {
-    public static int populationSize = 10;
+    public static int populationSize = 20;
     public float crossoverRate = 0.7f;
     public float mutationRate = 0.001f;
     public bool elitism = false;
@@ -16,6 +17,10 @@ public class GeneticAlgorithm : MonoBehaviour
 
     public List<Creature> population = new List<Creature>();
     public TerrainManager terrainManager;
+
+    public int threadCount = 4;
+    public static HashSet<int> activeSpriteIndices = new HashSet<int>();
+    public int creatureSpriteCount =0;
 
     /// <summary>
     ///Roulette-wheel selection - normalised decending, random value (0-1), first to accum to that value
@@ -34,6 +39,18 @@ public class GeneticAlgorithm : MonoBehaviour
     SelectionAlgorithm selectionAlgorithm = SelectionAlgorithm.RouletteWheel;
 
 
+    class ThreadParams
+    {
+        public ThreadParams(int start, int end)
+        {
+            startIndex = start;
+            endIndex = end;
+        }
+        public int startIndex;
+        public int endIndex;
+        public ManualResetEvent currentHandle;
+    }
+
     // Use this for initialization
     void Start()
     {
@@ -42,7 +59,7 @@ public class GeneticAlgorithm : MonoBehaviour
 
     void Awake()
     {
-       // Initialise();
+        creatureSpriteCount = Component.FindObjectOfType<GameController>().creatureSprites.Length;
     }
     public void Initialise()
     {
@@ -85,8 +102,9 @@ public class GeneticAlgorithm : MonoBehaviour
     private Creature CreateRandomCreature()
     {
         Creature creature = ScriptableObject.CreateInstance<Creature>();
-            creature.chromosome = createRandomChromosome();
-        
+        creature.chromosome = createRandomChromosome();
+        creature.spriteIndex = RandomlyChooseSpriteIndex();
+
         return creature;
     }
 
@@ -101,28 +119,58 @@ public class GeneticAlgorithm : MonoBehaviour
         ResetFitnessValue();
         battles = 0;
 
-        foreach (Battleground battleground in terrainManager.battlegrounds)
+        if (populationSize / threadCount < threadCount)
         {
-            foreach (Creature creatureA in population)
-            {
-                foreach (Creature creatureB in population)
-                {
-                    if (creatureA != creatureB)
-                    {
-                        BattleStats stats = BattleSimulation.Battle(creatureA, creatureB, battleground);
-                        stats.winner.fitnessValue++;
-                        battles++;
-                        requiresUIUpdate = true;
-                    }
-                }
-            }
+            threadCount = 2;
         }
+
+        int threadSplit = populationSize / threadCount;
+        ManualResetEvent[] handles = new ManualResetEvent[threadCount];
+
+        for (int i = 0, j =0;  i < populationSize; i += threadSplit, j++)
+        {
+            handles[j] = new ManualResetEvent(false);
+            ThreadParams threadParams = new ThreadParams(i * threadSplit, Mathf.Min(populationSize-1, i * threadSplit + threadSplit-1));
+            threadParams.currentHandle = handles[j];
+            ThreadPool.QueueUserWorkItem(BattleWork, threadParams);
+        }
+
+        WaitHandle.WaitAll(handles);
 
         //Sort highest fitness value to lowest
         population.Sort((creatureA, creatureB)=> creatureB.fitnessValue.CompareTo(creatureA.fitnessValue));
 
         totalFitness =  battles;
     }
+
+    void BattleWork(object threadParams)
+    {
+        ThreadParams param = threadParams as ThreadParams;
+        try
+        {
+            foreach (Battleground battleground in terrainManager.battlegrounds)
+            {
+                for (int i = param.startIndex; param.startIndex <= param.endIndex; i++)
+                {
+                    foreach (Creature creatureB in population)
+                    {
+                        if (population[i] != creatureB)
+                        {
+                            BattleStats stats = BattleSimulation.Battle(population[i], creatureB, battleground);
+                            stats.winner.fitnessValue++;
+                            battles++;
+                            requiresUIUpdate = true;
+                        }
+                    }
+                }
+            }
+        }
+        finally
+        {
+            param.currentHandle.Set();
+        }
+    }
+
 
     /// <summary>
     /// Retain the top 'keepPercentage' percent. Duplicate until full.
@@ -221,6 +269,9 @@ public class GeneticAlgorithm : MonoBehaviour
 
             creatureA.chromosome = System.Convert.ToInt32(resultA, 2);
             creatureB.chromosome = System.Convert.ToInt32(resultB, 2);
+
+            creatureA.spriteIndex = RandomlyChooseSpriteIndex();
+            creatureB.spriteIndex = RandomlyChooseSpriteIndex();
         }
     }
 
@@ -233,8 +284,14 @@ public class GeneticAlgorithm : MonoBehaviour
         //string chromosome = System.Convert.ToString(creature.chromosome, 2);
         foreach (CreatureGene.GeneFlags flag in System.Enum.GetValues(typeof(CreatureGene.GeneFlags)))
         {
+            bool hasMutated = false;
             if (Random.value <= mutationRate)
+            {
                 creature.chromosome |= (int)flag;
+                hasMutated = true;
+            }
+            if(hasMutated)
+                creature.spriteIndex = RandomlyChooseSpriteIndex();
         }
     }
 
@@ -265,5 +322,16 @@ public class GeneticAlgorithm : MonoBehaviour
     public Creature GetCreatureByFitnessIndex(int fitnessIndex)
     {
         return population[fitnessIndex];
+    }
+
+    public int RandomlyChooseSpriteIndex()
+    {
+        int spriteIndex = Random.Range(0, creatureSpriteCount-1);
+        while (activeSpriteIndices.Contains(spriteIndex))
+        {
+            spriteIndex = Random.Range(0, creatureSpriteCount-1);
+        }
+        activeSpriteIndices.Add(spriteIndex);
+        return spriteIndex;
     }
 }
