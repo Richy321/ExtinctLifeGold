@@ -103,7 +103,7 @@ public class GeneticAlgorithm : MonoBehaviour
     {
         Creature creature = ScriptableObject.CreateInstance<Creature>();
         creature.chromosome = createRandomChromosome();
-        creature.spriteIndex = RandomlyChooseSpriteIndex();
+        RandomiseSpriteIndex(creature);
 
         return creature;
     }
@@ -270,8 +270,8 @@ public class GeneticAlgorithm : MonoBehaviour
             creatureA.chromosome = System.Convert.ToInt32(resultA, 2);
             creatureB.chromosome = System.Convert.ToInt32(resultB, 2);
 
-            creatureA.spriteIndex = RandomlyChooseSpriteIndex();
-            creatureB.spriteIndex = RandomlyChooseSpriteIndex();
+            RandomiseSpriteIndex(creatureA);
+            RandomiseSpriteIndex(creatureB);
         }
     }
 
@@ -290,8 +290,8 @@ public class GeneticAlgorithm : MonoBehaviour
                 creature.chromosome |= (int)flag;
                 hasMutated = true;
             }
-            if(hasMutated)
-                creature.spriteIndex = RandomlyChooseSpriteIndex();
+            if (hasMutated)
+                RandomiseSpriteIndex(creature);
         }
     }
 
@@ -324,14 +324,17 @@ public class GeneticAlgorithm : MonoBehaviour
         return population[fitnessIndex];
     }
 
-    public int RandomlyChooseSpriteIndex()
+
+    public void RandomiseSpriteIndex(Creature creature)
     {
-        int spriteIndex = Random.Range(0, creatureSpriteCount-1);
+        activeSpriteIndices.Remove(creature.spriteIndex);
+
+        int spriteIndex = Random.Range(0, creatureSpriteCount - 1);
         while (activeSpriteIndices.Contains(spriteIndex))
         {
-            spriteIndex = Random.Range(0, creatureSpriteCount-1);
+            spriteIndex = Random.Range(0, creatureSpriteCount - 1);
         }
         activeSpriteIndices.Add(spriteIndex);
-        return spriteIndex;
+        creature.spriteIndex = spriteIndex;
     }
 }
