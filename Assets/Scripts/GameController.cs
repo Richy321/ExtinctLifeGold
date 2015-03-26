@@ -23,7 +23,7 @@ public class GameController : MonoBehaviour
 
     public Sprite[] creatureSprites;
 	// Use this for initialization
-	void Start () 
+	void Start() 
     {
         terrainGenerator.Generate();
         geneticAlgorithm.Initialise();

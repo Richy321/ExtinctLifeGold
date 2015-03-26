@@ -16,11 +16,11 @@ public abstract class CreatureGene : ScriptableObject
         None = 0,
         HP_Small = 1,
         HP_Medium = 2,
-        AddWaterMovementSpeed = 4,
+        RunningChargeAttack = 4,
         AddMeleeDamage = 8,
         AddRangedDamage = 16,
-        AddHealAbilty = 32,
-        LastEntry = AddHealAbilty
+        HealAbilty = 32,
+        LastEntry = HealAbilty
     };
 
     public class CreatureGeneModifier
@@ -35,7 +35,10 @@ public abstract class CreatureGene : ScriptableObject
         public enum CreatureStatType
         {
             HP, 
-            AP
+            AP,
+            AttackDamage,
+            AttackCost,
+            Armor
         }
 
         public Tile.TileTypes tileType = Tile.TileTypes.Grass;
@@ -43,6 +46,23 @@ public abstract class CreatureGene : ScriptableObject
         public float modifierValue = 1.0f;
     }
 
+    public abstract class CreatureAbility
+    {
+        public enum AbilityType
+        {
+            Heal =0,
+            Attack =1,
+            Buff =2,
+            Debuff =3
+        }
+
+        public AbilityType abilityType = AbilityType.Attack;
+        public int chargesRemaining = 1;
+
+        public abstract void Use(Creature self, Creature enemy);
+    }
+
     public List<CreatureGeneModifier> modifiers = new List<CreatureGeneModifier>();
 
+    public List<CreatureAbility> abilities = new List<CreatureAbility>();
 }

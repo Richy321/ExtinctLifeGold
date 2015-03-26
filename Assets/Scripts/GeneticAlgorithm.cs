@@ -116,6 +116,21 @@ public class GeneticAlgorithm : MonoBehaviour
 
     void CalculatePopulationFitness()
     {
+        //CalculatePopulationFitnessThreaded();
+        CalculatePopulationFitnessNonThreaded();
+    }
+
+    void CalculatePopulationFitnessNonThreaded()
+    {
+        ResetFitnessValue();
+        battles = 0;
+
+        ThreadParams threadParams = new ThreadParams(0, populationSize-1);
+        threadParams.currentHandle = new ManualResetEvent(false);
+        BattleWork(threadParams);
+    }
+    void CalculatePopulationFitnessThreaded()
+    {
         ResetFitnessValue();
         battles = 0;
 
@@ -150,7 +165,7 @@ public class GeneticAlgorithm : MonoBehaviour
         {
             foreach (Battleground battleground in terrainManager.battlegrounds)
             {
-                for (int i = param.startIndex; param.startIndex <= param.endIndex; i++)
+                for (int i = param.startIndex; i <= param.endIndex; i++)
                 {
                     foreach (Creature creatureB in population)
                     {

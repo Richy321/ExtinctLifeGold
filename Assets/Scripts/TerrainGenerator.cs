@@ -18,10 +18,10 @@ public class TerrainGenerator : MonoBehaviour
     public static string terrainGridGOName = "TerrainGrid";
 
     const float oceanThreshold = 0.0f;
-    const float waterThreshold = 0.1f;
-    const float sandThreshold = 0.3f;
-    const float grassThreshold = 0.4f;
-    const float mountainThreshold = 0.9f;
+    const float waterThreshold = 0.2f;
+    const float sandThreshold = 0.4f;
+    const float grassThreshold = 0.6f;
+    const float mountainThreshold = 0.8f;
 
     // Use this for initialization
     void Start()

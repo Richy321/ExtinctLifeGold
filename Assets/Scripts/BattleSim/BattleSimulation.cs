@@ -10,32 +10,24 @@ public class BattleSimulation : ScriptableObject
         bgStats.GenerateBattlegroundStats(battleground);
 
         creatureA.ApplyGenesPerBattleground(bgStats);
-        creatureA.ApplyGenesPerBattleground(bgStats);
+        creatureB.ApplyGenesPerBattleground(bgStats);
 
         return DoBattleSimulation(creatureA, creatureB);
     }
 
     static BattleStats DoBattleSimulation(Creature creatureA, Creature creatureB)
     {
-        BattleStats stats = new BattleStats();//ScriptableObject.CreateInstance<BattleStats>();
+        BattleStats stats = new BattleStats();
 
-        CreatureBattleStats creatureStatsA = new CreatureBattleStats();//ScriptableObject.CreateInstance<CreatureBattleStats>();
-        CreatureBattleStats creatureStatsB = new CreatureBattleStats();//ScriptableObject.CreateInstance<CreatureBattleStats>();
+        CreatureBattleStats creatureStatsA = new CreatureBattleStats();
+        CreatureBattleStats creatureStatsB = new CreatureBattleStats();
         stats.battleStatsPerCreature.Add(creatureA, creatureStatsA);
         stats.battleStatsPerCreature.Add(creatureB, creatureStatsB);
 
         while (creatureA.healthPoints > 0 && creatureB.healthPoints > 0)
         {
-            //do turn
-            if (creatureA.healthPoints > 0)
-            {
-                creatureA.BasicAttack(creatureB);
-            }
-
-            if (creatureB.healthPoints > 0)
-            {
-                creatureB.BasicAttack(creatureA);
-            }
+            creatureA.DoTurn(creatureB);
+            creatureB.DoTurn(creatureA);
 
             stats.duration++;
         }
@@ -47,3 +39,5 @@ public class BattleSimulation : ScriptableObject
         return stats;
     }
 }
+
+
