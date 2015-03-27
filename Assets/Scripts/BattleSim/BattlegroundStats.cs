@@ -38,7 +38,7 @@ public class BattlegroundStats //: ScriptableObject
 
             foreach (Tile.TileTypes tileType in System.Enum.GetValues(typeof(Tile.TileTypes)))
             {
-                modifierPerTileType[tileType] = tileCounts[tileType] / battleground.tiles.Count;
+                modifierPerTileType[tileType] = (float)tileCounts[tileType] / battleground.tiles.Count;
             }
         }
     }

@@ -5,7 +5,7 @@ using System.Threading;
 
 public class GeneticAlgorithm : MonoBehaviour
 {
-    public static int populationSize = 20;
+    public static int populationSize = 25;
     public float crossoverRate = 0.7f;
     public float mutationRate = 0.001f;
     public bool elitism = false;
@@ -128,6 +128,11 @@ public class GeneticAlgorithm : MonoBehaviour
         ThreadParams threadParams = new ThreadParams(0, populationSize-1);
         threadParams.currentHandle = new ManualResetEvent(false);
         BattleWork(threadParams);
+
+        //Sort highest fitness value to lowest
+        population.Sort((creatureA, creatureB) => creatureB.fitnessValue.CompareTo(creatureA.fitnessValue));
+
+        totalFitness = battles;
     }
     void CalculatePopulationFitnessThreaded()
     {
@@ -338,7 +343,6 @@ public class GeneticAlgorithm : MonoBehaviour
     {
         return population[fitnessIndex];
     }
-
 
     public void RandomiseSpriteIndex(Creature creature)
     {

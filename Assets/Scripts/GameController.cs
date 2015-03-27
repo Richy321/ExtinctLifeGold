@@ -66,13 +66,18 @@ public class GameController : MonoBehaviour
             imageGO.GetComponent<Image>().sprite = creatureSprites[creature.spriteIndex];
             //Set Chromosome text
             GameObject chromosomeLabelGO = card.transform.FindChild(chromosomeLabelGOName).gameObject;
-            chromosomeLabelGO.GetComponent<Text>().text = System.Convert.ToString(creature.chromosome, 2);
+
+            int maxLength = System.Enum.GetValues(typeof(CreatureGene.GeneFlags)).Length - 2; //ignoring None and LastEntry
+            string chromosome = System.Convert.ToString(creature.chromosome, 2);
+            chromosome = chromosome.PadLeft(maxLength, '0');
+            chromosomeLabelGO.GetComponent<Text>().text = chromosome;
 
             //Set Fitness Value
             GameObject FitnessValueGO = card.transform.FindChild(fitnessValueGOName).gameObject;
             FitnessValueGO.GetComponent<Text>().text = creature.fitnessValue.ToString();
 
-            
+            OnClickShowInfo geneInfoPanel = card.GetComponent<OnClickShowInfo>();
+            geneInfoPanel.creature = creature;
         }
     }
 }

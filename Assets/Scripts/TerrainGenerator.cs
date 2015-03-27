@@ -39,7 +39,7 @@ public class TerrainGenerator : MonoBehaviour
         //using Fractal Brownian Motion
         float gain = 0.65f;
         float lacunarity = 2.0f;
-        int octaves = 16;
+        int octaves = 4;
         List<float> heightMap = new List<float>();
         float min = float.MaxValue, max = float.MinValue;
         Random.seed = (int)System.DateTime.Now.Ticks;

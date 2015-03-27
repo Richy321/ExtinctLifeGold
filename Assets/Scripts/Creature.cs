@@ -77,35 +77,38 @@ public class Creature : ScriptableObject
 
         foreach (CreatureGene.GeneFlags geneFlag in System.Enum.GetValues(typeof(CreatureGene.GeneFlags)))
         {
-            if ((chromosome & (int)geneFlag) == 1)
+            if (geneFlag != CreatureGene.GeneFlags.None && geneFlag != CreatureGene.GeneFlags.LastEntry)
             {
-                foreach (CreatureGene.CreatureGeneModifier mod in GeneMap[geneFlag].modifiers)
+                if ((chromosome & (int)geneFlag) == (int)geneFlag)
                 {
-                    if(mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.HP)
+                    foreach (CreatureGene.CreatureGeneModifier mod in GeneMap[geneFlag].modifiers)
                     {
-                        hpModAccum += Mathf.CeilToInt(baseHealthPoints * bgStats.modifierPerTileType[mod.tileType]); 
+                        if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.HP)
+                        {
+                            hpModAccum += Mathf.CeilToInt(baseHealthPoints * bgStats.modifierPerTileType[mod.tileType]);
+                        }
+                        else if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.AP)
+                        {
+                            apModAccum += Mathf.CeilToInt(baseActionPoints * bgStats.modifierPerTileType[mod.tileType]);
+                        }
+                        else if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.AttackCost)
+                        {
+                            attCostModAccum += Mathf.CeilToInt(baseAttackCost * bgStats.modifierPerTileType[mod.tileType]);
+                        }
+                        else if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.AttackDamage)
+                        {
+                            attDmgModAccum += Mathf.CeilToInt(baseAttackDamage * bgStats.modifierPerTileType[mod.tileType]);
+                        }
+                        else if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.Armor)
+                        {
+                            armorRatingModAccum += Mathf.CeilToInt(baseArmorRating * bgStats.modifierPerTileType[mod.tileType]);
+                        }
                     }
-                    else if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.AP)
-                    {
-                        apModAccum += Mathf.CeilToInt(baseActionPoints * bgStats.modifierPerTileType[mod.tileType]);
-                    }
-                    else if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.AttackCost)
-                    {
-                        attCostModAccum += Mathf.CeilToInt(baseAttackCost * bgStats.modifierPerTileType[mod.tileType]);
-                    }
-                    else if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.AttackDamage)
-                    {
-                        attDmgModAccum += Mathf.CeilToInt(baseAttackDamage * bgStats.modifierPerTileType[mod.tileType]);
-                    }
-                    else if (mod.statType == CreatureGene.CreatureGeneModifier.CreatureStatType.Armor)
-                    {
-                        armorRatingModAccum += Mathf.CeilToInt(baseArmorRating * bgStats.modifierPerTileType[mod.tileType]);
-                    }
-                }
 
-                foreach (CreatureGene.CreatureAbility ability in GeneMap[geneFlag].abilities)
-                {
-                    abilities[ability.abilityType].Add(ability);
+                    foreach (CreatureGene.CreatureAbility ability in GeneMap[geneFlag].abilities)
+                    {
+                        abilities[ability.abilityType].Add(ability);
+                    }
                 }
             }
         }
@@ -123,7 +126,6 @@ public class Creature : ScriptableObject
 	    {
             if (ability.chargesRemaining > 0)
             {
-
                 if (rand.NextDouble() > abilityChance)
                 {
                     ability.Use(this, enemy);
@@ -145,7 +147,6 @@ public class Creature : ScriptableObject
         healthPoints -= attackDamage;
     }
 
-
     public void DoTurn(Creature enemy)
     {
         if (healthPoints > 0)
@@ -161,5 +162,11 @@ public class Creature : ScriptableObject
                 BasicAttack(enemy);
             }
         }
+    }
+
+
+    public static CreatureGene GetGeneFromFlag(CreatureGene.GeneFlags flag)
+    {
+        return GeneMap[flag];
     }
 }

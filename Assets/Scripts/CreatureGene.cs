@@ -10,15 +10,27 @@ public abstract class CreatureGene : ScriptableObject
         get { return GeneFlags.HP_Small; }
     }
 
+    public virtual string description
+    {
+        get { return flag.ToString(); }
+    }
+    protected static float smallAttackDamageBonus = 2.0f;
+    protected static float mediumAttackDamageBonus = 10.0f;
+    protected static float largeAttackDamageBonus = 25.0f;
+
+    protected static float smallHPBonus = 2.0f;
+    protected static float mediumHPBonus = 10.0f;
+    protected static float largeHPBonus = 25.0f;
+
     [Flags]
     public enum GeneFlags
     {
         None = 0,
         HP_Small = 1,
         HP_Medium = 2,
-        RunningChargeAttack = 4,
-        AddMeleeDamage = 8,
-        AddRangedDamage = 16,
+        HP_Large= 4,
+        WaterAttackEnchant = 8,
+        LandAttackEnchant = 16,
         HealAbilty = 32,
         LastEntry = HealAbilty
     };
