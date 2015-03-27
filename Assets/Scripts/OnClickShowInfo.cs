@@ -7,11 +7,11 @@ public class OnClickShowInfo : MonoBehaviour
     public GameObject infoPanel;
     public Creature creature;
     public Text geneList;
-    Text text;
+
 	// Use this for initialization
 	void Start () 
     {
-        text = transform.FindChild("Button").GetComponentInChildren<Text>();
+
 	}
 	
 	// Update is called once per frame
@@ -38,7 +38,7 @@ public class OnClickShowInfo : MonoBehaviour
         geneList.text = string.Empty;
         foreach (CreatureGene.GeneFlags geneFlag in System.Enum.GetValues(typeof(CreatureGene.GeneFlags)))
         {
-            if (geneFlag != CreatureGene.GeneFlags.None && geneFlag != CreatureGene.GeneFlags.LastEntry)
+            if (geneFlag != CreatureGene.GeneFlags.LastEntry)
             {
                 if ((creature.chromosome & (int)geneFlag) == (int)geneFlag)
                 {

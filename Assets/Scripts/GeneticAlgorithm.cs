@@ -20,7 +20,7 @@ public class GeneticAlgorithm : MonoBehaviour
 
     public int threadCount = 4;
     public static HashSet<int> activeSpriteIndices = new HashSet<int>();
-    public int creatureSpriteCount =0;
+    public int creatureSpriteCount = 0;
 
     /// <summary>
     ///Roulette-wheel selection - normalised decending, random value (0-1), first to accum to that value
@@ -96,7 +96,14 @@ public class GeneticAlgorithm : MonoBehaviour
     }
     private int createRandomChromosome()
     {
-        return Random.Range(0, (int)CreatureGene.GeneFlags.LastEntry);
+        int randomChromosome = 0;
+
+        foreach(CreatureGene.GeneFlags flag in System.Enum.GetValues(typeof(CreatureGene.GeneFlags)))
+        {
+            if(Random.value > 0.5f)
+                randomChromosome += (int)flag;
+        }
+        return randomChromosome;
     }
 
     private Creature CreateRandomCreature()
@@ -125,7 +132,7 @@ public class GeneticAlgorithm : MonoBehaviour
         ResetFitnessValue();
         battles = 0;
 
-        ThreadParams threadParams = new ThreadParams(0, populationSize-1);
+        ThreadParams threadParams = new ThreadParams(0, populationSize - 1);
         threadParams.currentHandle = new ManualResetEvent(false);
         BattleWork(threadParams);
 
@@ -147,10 +154,10 @@ public class GeneticAlgorithm : MonoBehaviour
         int threadSplit = populationSize / threadCount;
         ManualResetEvent[] handles = new ManualResetEvent[threadCount];
 
-        for (int i = 0, j =0;  i < populationSize; i += threadSplit, j++)
+        for (int i = 0, j = 0; i < populationSize; i += threadSplit, j++)
         {
             handles[j] = new ManualResetEvent(false);
-            ThreadParams threadParams = new ThreadParams(i * threadSplit, Mathf.Min(populationSize-1, i * threadSplit + threadSplit-1));
+            ThreadParams threadParams = new ThreadParams(i * threadSplit, Mathf.Min(populationSize - 1, i * threadSplit + threadSplit - 1));
             threadParams.currentHandle = handles[j];
             ThreadPool.QueueUserWorkItem(BattleWork, threadParams);
         }
@@ -158,9 +165,9 @@ public class GeneticAlgorithm : MonoBehaviour
         WaitHandle.WaitAll(handles);
 
         //Sort highest fitness value to lowest
-        population.Sort((creatureA, creatureB)=> creatureB.fitnessValue.CompareTo(creatureA.fitnessValue));
+        population.Sort((creatureA, creatureB) => creatureB.fitnessValue.CompareTo(creatureA.fitnessValue));
 
-        totalFitness =  battles;
+        totalFitness = battles;
     }
 
     void BattleWork(object threadParams)
@@ -202,15 +209,15 @@ public class GeneticAlgorithm : MonoBehaviour
         int max = Mathf.CeilToInt(population.Count * keepPercentage);
 
         int currentPos = 0;
-        while(newPopulation.Count < populationSize)
+        while (newPopulation.Count < populationSize)
         {
             Creature clone = Object.Instantiate<Creature>(population[currentPos]);
             newPopulation.Add(clone);
 
-            if(currentPos < max)
+            if (currentPos < max)
                 currentPos++;
             else
-                currentPos =0;
+                currentPos = 0;
         }
         population = newPopulation;
     }
@@ -269,7 +276,7 @@ public class GeneticAlgorithm : MonoBehaviour
             string chromosomeA = System.Convert.ToString(creatureA.chromosome, 2);
             string chromosomeB = System.Convert.ToString(creatureB.chromosome, 2);
 
-            int maxLength = System.Enum.GetValues(typeof(CreatureGene.GeneFlags)).Length-2; //ignoring None and LastEntry
+            int maxLength = System.Enum.GetValues(typeof(CreatureGene.GeneFlags)).Length - 2; //ignoring None and LastEntry
 
             chromosomeA = chromosomeA.PadLeft(maxLength, '0');
             chromosomeB = chromosomeB.PadLeft(maxLength, '0');
