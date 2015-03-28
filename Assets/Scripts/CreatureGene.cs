@@ -25,13 +25,14 @@ public abstract class CreatureGene : ScriptableObject
     [Flags]
     public enum GeneFlags
     {
-        None = 0,
         HP_Small = 1,
         HP_Medium = 2,
         HP_Large= 4,
         WaterAttackEnchant = 8,
         LandAttackEnchant = 16,
         HealAbilty = 32,
+        LandHP = 64,
+        WaterHP = 128,
         LastEntry = HealAbilty
     };
 

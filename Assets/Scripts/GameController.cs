@@ -67,7 +67,7 @@ public class GameController : MonoBehaviour
             //Set Chromosome text
             GameObject chromosomeLabelGO = card.transform.FindChild(chromosomeLabelGOName).gameObject;
 
-            int maxLength = System.Enum.GetValues(typeof(CreatureGene.GeneFlags)).Length - 2; //ignoring None and LastEntry
+            int maxLength = System.Enum.GetValues(typeof(CreatureGene.GeneFlags)).Length -1; //ignoring None and LastEntry
             string chromosome = System.Convert.ToString(creature.chromosome, 2);
             chromosome = chromosome.PadLeft(maxLength, '0');
             chromosomeLabelGO.GetComponent<Text>().text = chromosome;

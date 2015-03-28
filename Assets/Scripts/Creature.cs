@@ -77,7 +77,7 @@ public class Creature : ScriptableObject
 
         foreach (CreatureGene.GeneFlags geneFlag in System.Enum.GetValues(typeof(CreatureGene.GeneFlags)))
         {
-            if (geneFlag != CreatureGene.GeneFlags.None && geneFlag != CreatureGene.GeneFlags.LastEntry)
+            if (geneFlag != CreatureGene.GeneFlags.LastEntry)
             {
                 if ((chromosome & (int)geneFlag) == (int)geneFlag)
                 {
