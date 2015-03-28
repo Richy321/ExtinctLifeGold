@@ -36,7 +36,7 @@ public class GeneticAlgorithm : MonoBehaviour
         TruncationSelection
     }
 
-    SelectionAlgorithm selectionAlgorithm = SelectionAlgorithm.RouletteWheel;
+    public SelectionAlgorithm selectionAlgorithm = SelectionAlgorithm.RouletteWheel;
 
 
     class ThreadParams
@@ -94,6 +94,7 @@ public class GeneticAlgorithm : MonoBehaviour
             population.Add(CreateRandomCreature());
         }
     }
+
     private int createRandomChromosome()
     {
         return Random.Range(0, (int)CreatureGene.GeneFlags.LastEntry);
